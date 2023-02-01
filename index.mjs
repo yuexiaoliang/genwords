@@ -18,36 +18,15 @@ const db = {};
 start();
 
 function createData(line) {
-  let [word, britishAccent = '', americanAccent = '', paraphrase] = line;
+  let [word, DJ = '', KK = '', paraphrase] = line;
 
-  word = word.trim().toLocaleLowerCase();
-  // 单词不存在则退出
-  if (typeof word !== 'string' || word.length < 2) return;
+  word = handleWord(word);
+  if (!word) return;
 
-  // 如果单词第一个字符不是字母则退出
-  if (word[0].search(/[^a-zA-Z]/) > -1) return;
+  paraphrase = handleParaphrase(paraphrase);
+  if (!paraphrase) return;
 
-  // 没有释义则退出
-  if (typeof paraphrase !== 'string') return;
-  paraphrase = paraphrase.split('\n') || [];
-  paraphrase = paraphrase.filter((text) => {
-    const t = text.trim();
-
-    if (typeof t !== 'string') return false;
-    if (t.length === 0) return false;
-    if (t === '无') return false;
-
-    return true;
-  });
-  // 没有释义则退出
-  if (!paraphrase.length) return;
-
-  if (!db[word]) {
-    // [出现次数，英音，美音，释义]
-    db[word] = [1, britishAccent, americanAccent, paraphrase];
-  } else {
-    db[word][0] += 1;
-  }
+  handleDB(word, [1, DJ, KK, paraphrase]);
 
   if (!fs.existsSync(dbPath)) {
     try {
@@ -64,6 +43,52 @@ function createData(line) {
   }
 }
 
+// 处理数据库
+function handleDB(word, data) {
+  if (!db[word]) {
+    // [出现次数，英音，美音，释义]
+    db[word] = data;
+  } else {
+    db[word][0] += 1;
+  }
+}
+
+// 处理单词
+function handleWord(word) {
+  word = word.trim().toLocaleLowerCase();
+
+  // 单词不存在则退出
+  if (typeof word !== 'string' || word.length < 2) return;
+
+  // 如果单词第一个字符不是字母则退出
+  if (word[0].search(/[^a-zA-Z]/) > -1) return;
+
+  return word;
+}
+
+// 处理释义
+function handleParaphrase(para) {
+  // 没有释义则退出
+  if (typeof para !== 'string') return;
+
+  para = para.split('\n') || [];
+  para = para.filter((text) => {
+    const t = text.trim();
+
+    if (typeof t !== 'string') return false;
+    if (t.length === 0) return false;
+    if (t === '无') return false;
+
+    return true;
+  });
+
+  // 没有释义则退出
+  if (!para.length) return;
+
+  return para;
+}
+
+// 读取 xlsx
 function readXlsx(filepath) {
   const sheets = xlsx.parse(filepath);
 
@@ -81,6 +106,7 @@ function readXlsx(filepath) {
   logger.info(msg);
 }
 
+// 读取目录
 function readdir(dirname) {
   const direntArr = fs.readdirSync(dirname, { withFileTypes: true });
   direntArr.forEach((dirent) => {
