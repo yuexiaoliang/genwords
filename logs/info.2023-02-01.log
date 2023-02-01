@@ -1,0 +1,958 @@
+[2023-02-01T09:01:06.671] [INFO] info - 【F:\Projects\createdict\dict\1.中考\2016初中词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:06.843] [INFO] info - 【F:\Projects\createdict\dict\1.中考\20天背完中考核心词汇.xlsx】 统计完毕
+[2023-02-01T09:01:06.971] [INFO] info - 【F:\Projects\createdict\dict\1.中考\5·3中考英语核心词汇.xlsx】 统计完毕
+[2023-02-01T09:01:07.108] [INFO] info - 【F:\Projects\createdict\dict\1.中考\初中考点精练英语词汇（中考）.xlsx】 统计完毕
+[2023-02-01T09:01:07.178] [INFO] info - 【F:\Projects\createdict\dict\1.中考\初中英语大纲词汇.xlsx】 统计完毕
+[2023-02-01T09:01:07.212] [INFO] info - 【F:\Projects\createdict\dict\1.中考\初中英语常考短语.xlsx】 统计完毕
+[2023-02-01T09:01:07.301] [INFO] info - 【F:\Projects\createdict\dict\1.中考\初中英语词汇乱序便携版.xlsx】 统计完毕
+[2023-02-01T09:01:07.389] [INFO] info - 【F:\Projects\createdict\dict\1.中考\初中词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:07.467] [INFO] info - 【F:\Projects\createdict\dict\1.中考\初中词汇正序版.xlsx】 统计完毕
+[2023-02-01T09:01:07.471] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版一年级起点一年级上.xlsx】 统计完毕
+[2023-02-01T09:01:07.475] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版一年级起点一年级下.xlsx】 统计完毕
+[2023-02-01T09:01:07.481] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版一年级起点三年级上.xlsx】 统计完毕
+[2023-02-01T09:01:07.487] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版一年级起点三年级下.xlsx】 统计完毕
+[2023-02-01T09:01:07.491] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版一年级起点二年级上.xlsx】 统计完毕
+[2023-02-01T09:01:07.495] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版一年级起点二年级下.xlsx】 统计完毕
+[2023-02-01T09:01:07.502] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版一年级起点五年级上.xlsx】 统计完毕
+[2023-02-01T09:01:07.514] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版一年级起点五年级下.xlsx】 统计完毕
+[2023-02-01T09:01:07.523] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版一年级起点六年级上.xlsx】 统计完毕
+[2023-02-01T09:01:07.527] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版一年级起点六年级下.xlsx】 统计完毕
+[2023-02-01T09:01:07.534] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版一年级起点四年级上.xlsx】 统计完毕
+[2023-02-01T09:01:07.540] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版一年级起点四年级下.xlsx】 统计完毕
+[2023-02-01T09:01:07.544] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版三年级起点三年级上.xlsx】 统计完毕
+[2023-02-01T09:01:07.553] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版三年级起点三年级下.xlsx】 统计完毕
+[2023-02-01T09:01:07.561] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版三年级起点五年级上.xlsx】 统计完毕
+[2023-02-01T09:01:07.568] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版三年级起点五年级下.xlsx】 统计完毕
+[2023-02-01T09:01:07.574] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版三年级起点六年级上.xlsx】 统计完毕
+[2023-02-01T09:01:07.580] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版三年级起点六年级下.xlsx】 统计完毕
+[2023-02-01T09:01:07.585] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版三年级起点四年级上.xlsx】 统计完毕
+[2023-02-01T09:01:07.591] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版三年级起点四年级下.xlsx】 统计完毕
+[2023-02-01T09:01:07.611] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版初中英语七年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:07.636] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版初中英语七年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:07.662] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版初中英语九年级全册.xlsx】 统计完毕
+[2023-02-01T09:01:07.680] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版初中英语八年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:07.699] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版初中英语八年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:07.712] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版高中英语1 - 必修.xlsx】 统计完毕
+[2023-02-01T09:01:07.726] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版高中英语10 - 选修.xlsx】 统计完毕
+[2023-02-01T09:01:07.739] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版高中英语11 - 选修.xlsx】 统计完毕
+[2023-02-01T09:01:07.753] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版高中英语2 - 必修.xlsx】 统计完毕
+[2023-02-01T09:01:07.767] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版高中英语3 - 必修.xlsx】 统计完毕
+[2023-02-01T09:01:07.778] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版高中英语4 - 必修.xlsx】 统计完毕
+[2023-02-01T09:01:07.794] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版高中英语5 - 必修.xlsx】 统计完毕
+[2023-02-01T09:01:07.808] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版高中英语6 - 选修.xlsx】 统计完毕
+[2023-02-01T09:01:07.833] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版高中英语7 - 选修.xlsx】 统计完毕
+[2023-02-01T09:01:07.849] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版高中英语8 - 选修.xlsx】 统计完毕
+[2023-02-01T09:01:07.866] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版高中英语9 - 选修.xlsx】 统计完毕
+[2023-02-01T09:01:07.886] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版高中英语必修第一册.xlsx】 统计完毕
+[2023-02-01T09:01:07.910] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版高中英语必修第三册.xlsx】 统计完毕
+[2023-02-01T09:01:07.926] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版高中英语必修第二册.xlsx】 统计完毕
+[2023-02-01T09:01:07.943] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版高中英语选择性必修第一册.xlsx】 统计完毕
+[2023-02-01T09:01:07.959] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版高中英语选择性必修第三册.xlsx】 统计完毕
+[2023-02-01T09:01:07.973] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版高中英语选择性必修第二册.xlsx】 统计完毕
+[2023-02-01T09:01:07.986] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\人教版\人教版高中英语选择性必修第四册.xlsx】 统计完毕
+[2023-02-01T09:01:08.007] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\仁爱版\仁爱版初中英语七年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:08.028] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\仁爱版\仁爱版初中英语七年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:08.051] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\仁爱版\仁爱版初中英语九年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:08.064] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\仁爱版\仁爱版初中英语九年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:08.094] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\仁爱版\仁爱版初中英语八年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:08.113] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\仁爱版\仁爱版初中英语八年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:08.135] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\冀教版\冀教版三年级起点七年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:08.152] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\冀教版\冀教版三年级起点七年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:08.158] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\冀教版\冀教版三年级起点三年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.163] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\冀教版\冀教版三年级起点三年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.184] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\冀教版\冀教版三年级起点九年级全册.xlsx】 统计完毕
+[2023-02-01T09:01:08.189] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\冀教版\冀教版三年级起点五年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.194] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\冀教版\冀教版三年级起点五年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.211] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\冀教版\冀教版三年级起点八年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:08.230] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\冀教版\冀教版三年级起点八年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:08.236] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\冀教版\冀教版三年级起点六年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.239] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\冀教版\冀教版三年级起点六年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.243] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\冀教版\冀教版三年级起点四年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.248] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\冀教版\冀教版三年级起点四年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.257] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\剑桥版\JOIN版剑桥小学英语三年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:08.265] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\剑桥版\JOIN版剑桥小学英语三年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:08.273] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\剑桥版\JOIN版剑桥小学英语五年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:08.286] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\剑桥版\JOIN版剑桥小学英语五年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:08.293] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\剑桥版\JOIN版剑桥小学英语六年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:08.299] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\剑桥版\JOIN版剑桥小学英语六年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:08.309] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\剑桥版\JOIN版剑桥小学英语四年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:08.318] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\剑桥版\JOIN版剑桥小学英语四年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:08.321] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北京版\北京版一年级起点一年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.327] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北京版\北京版一年级起点一年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.333] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北京版\北京版一年级起点三年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.338] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北京版\北京版一年级起点三年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.343] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北京版\北京版一年级起点二年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.350] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北京版\北京版一年级起点二年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.353] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北京版\北京版一年级起点五年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.357] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北京版\北京版一年级起点五年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.360] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北京版\北京版一年级起点六年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.366] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北京版\北京版一年级起点六年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.369] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北京版\北京版一年级起点四年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.372] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北京版\北京版一年级起点四年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.376] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版一年级起点一年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.379] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版一年级起点一年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.383] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版一年级起点三年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.386] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版一年级起点三年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.390] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版一年级起点二年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.394] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版一年级起点二年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.398] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版一年级起点五年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.403] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版一年级起点五年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.408] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版一年级起点六年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.413] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版一年级起点六年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.418] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版一年级起点四年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.422] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版一年级起点四年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.425] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版三年级起点三年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.429] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版三年级起点三年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.434] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版三年级起点五年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.439] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版三年级起点五年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.446] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版三年级起点六年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.450] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版三年级起点六年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.454] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版三年级起点四年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.459] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版三年级起点四年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.481] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版初中英语七年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:08.509] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版初中英语七年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:08.531] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版初中英语九年级全一册.xlsx】 统计完毕
+[2023-02-01T09:01:08.546] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版初中英语八年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:08.562] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版初中英语八年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:08.576] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版高中英语必修一.xlsx】 统计完毕
+[2023-02-01T09:01:08.586] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版高中英语必修三.xlsx】 统计完毕
+[2023-02-01T09:01:08.604] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版高中英语必修二.xlsx】 统计完毕
+[2023-02-01T09:01:08.615] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版高中英语必修模块1.xlsx】 统计完毕
+[2023-02-01T09:01:08.626] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版高中英语必修模块2.xlsx】 统计完毕
+[2023-02-01T09:01:08.641] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版高中英语必修模块3.xlsx】 统计完毕
+[2023-02-01T09:01:08.658] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版高中英语必修模块4.xlsx】 统计完毕
+[2023-02-01T09:01:08.673] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版高中英语必修模块5.xlsx】 统计完毕
+[2023-02-01T09:01:08.684] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版高中英语选修模块10.xlsx】 统计完毕
+[2023-02-01T09:01:08.697] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版高中英语选修模块11.xlsx】 统计完毕
+[2023-02-01T09:01:08.711] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版高中英语选修模块6.xlsx】 统计完毕
+[2023-02-01T09:01:08.730] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版高中英语选修模块7.xlsx】 统计完毕
+[2023-02-01T09:01:08.744] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版高中英语选修模块8.xlsx】 统计完毕
+[2023-02-01T09:01:08.757] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版高中英语选修模块9.xlsx】 统计完毕
+[2023-02-01T09:01:08.770] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版高中英语选择性必修一.xlsx】 统计完毕
+[2023-02-01T09:01:08.784] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版高中英语选择性必修三.xlsx】 统计完毕
+[2023-02-01T09:01:08.800] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\北师大\北师大版高中英语选择性必修二.xlsx】 统计完毕
+[2023-02-01T09:01:08.805] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版一年级起点一年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.811] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版一年级起点一年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.816] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版一年级起点三年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.821] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版一年级起点三年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.828] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版一年级起点二年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.836] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版一年级起点二年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.840] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版一年级起点五年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.844] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版一年级起点五年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.847] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版一年级起点六年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.852] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版一年级起点六年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.857] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版一年级起点四年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.861] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版一年级起点四年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.867] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版三年级起点三年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.876] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版三年级起点三年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.883] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版三年级起点五年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.890] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版三年级起点五年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.894] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版三年级起点六年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.899] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版三年级起点六年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.905] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版三年级起点四年级上.xlsx】 统计完毕
+[2023-02-01T09:01:08.914] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版三年级起点四年级下.xlsx】 统计完毕
+[2023-02-01T09:01:08.937] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版初中英语七年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:08.956] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版初中英语七年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:08.970] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版初中英语九年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:08.976] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版初中英语九年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:08.989] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版初中英语八年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:09.000] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版初中英语八年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:09.010] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版高中英语 必修1.xlsx】 统计完毕
+[2023-02-01T09:01:09.021] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版高中英语 必修2.xlsx】 统计完毕
+[2023-02-01T09:01:09.032] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版高中英语 必修3.xlsx】 统计完毕
+[2023-02-01T09:01:09.043] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版高中英语 必修4.xlsx】 统计完毕
+[2023-02-01T09:01:09.056] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版高中英语 必修5.xlsx】 统计完毕
+[2023-02-01T09:01:09.068] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版高中英语 选修10.xlsx】 统计完毕
+[2023-02-01T09:01:09.080] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版高中英语 选修11.xlsx】 统计完毕
+[2023-02-01T09:01:09.106] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版高中英语 选修6.xlsx】 统计完毕
+[2023-02-01T09:01:09.125] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版高中英语 选修7.xlsx】 统计完毕
+[2023-02-01T09:01:09.151] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版高中英语 选修8.xlsx】 统计完毕
+[2023-02-01T09:01:09.166] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版高中英语 选修9.xlsx】 统计完毕
+[2023-02-01T09:01:09.182] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版高中英语必修第一册.xlsx】 统计完毕
+[2023-02-01T09:01:09.192] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版高中英语必修第三册.xlsx】 统计完毕
+[2023-02-01T09:01:09.208] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版高中英语必修第二册.xlsx】 统计完毕
+[2023-02-01T09:01:09.218] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版高中英语选择性必修第一册.xlsx】 统计完毕
+[2023-02-01T09:01:09.232] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研版高中英语选择性必修第二册.xlsx】 统计完毕
+[2023-02-01T09:01:09.255] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研社初中英语七年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:09.273] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研社初中英语七年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:09.288] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研社初中英语九年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:09.293] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研社初中英语九年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:09.310] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研社初中英语八年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:09.320] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研社初中英语八年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:09.330] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研社高中英语 必修1.xlsx】 统计完毕
+[2023-02-01T09:01:09.339] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研社高中英语 必修2.xlsx】 统计完毕
+[2023-02-01T09:01:09.349] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研社高中英语 必修3.xlsx】 统计完毕
+[2023-02-01T09:01:09.360] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研社高中英语 必修4.xlsx】 统计完毕
+[2023-02-01T09:01:09.374] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研社高中英语 必修5.xlsx】 统计完毕
+[2023-02-01T09:01:09.386] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研社高中英语 选修10.xlsx】 统计完毕
+[2023-02-01T09:01:09.399] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研社高中英语 选修11.xlsx】 统计完毕
+[2023-02-01T09:01:09.426] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研社高中英语 选修6.xlsx】 统计完毕
+[2023-02-01T09:01:09.446] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研社高中英语 选修7.xlsx】 统计完毕
+[2023-02-01T09:01:09.468] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研社高中英语 选修8.xlsx】 统计完毕
+[2023-02-01T09:01:09.482] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\外研版\外研社高中英语 选修9.xlsx】 统计完毕
+[2023-02-01T09:01:09.488] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\广东版\广东版三年级起点三年级上.xlsx】 统计完毕
+[2023-02-01T09:01:09.492] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\广东版\广东版三年级起点三年级下.xlsx】 统计完毕
+[2023-02-01T09:01:09.500] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\广东版\广东版三年级起点五年级上.xlsx】 统计完毕
+[2023-02-01T09:01:09.503] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\广东版\广东版三年级起点五年级下.xlsx】 统计完毕
+[2023-02-01T09:01:09.508] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\广东版\广东版三年级起点六年级上.xlsx】 统计完毕
+[2023-02-01T09:01:09.511] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\广东版\广东版三年级起点六年级下.xlsx】 统计完毕
+[2023-02-01T09:01:09.517] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\广东版\广东版三年级起点四年级上.xlsx】 统计完毕
+[2023-02-01T09:01:09.521] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\广东版\广东版三年级起点四年级下.xlsx】 统计完毕
+[2023-02-01T09:01:09.529] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\广州版\广州版三年级起点三年级上.xlsx】 统计完毕
+[2023-02-01T09:01:09.536] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\广州版\广州版三年级起点三年级下.xlsx】 统计完毕
+[2023-02-01T09:01:09.542] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\广州版\广州版三年级起点五年级上.xlsx】 统计完毕
+[2023-02-01T09:01:09.550] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\广州版\广州版三年级起点五年级下.xlsx】 统计完毕
+[2023-02-01T09:01:09.556] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\广州版\广州版三年级起点六年级上.xlsx】 统计完毕
+[2023-02-01T09:01:09.569] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\广州版\广州版三年级起点六年级下.xlsx】 统计完毕
+[2023-02-01T09:01:09.577] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\广州版\广州版三年级起点四年级上.xlsx】 统计完毕
+[2023-02-01T09:01:09.583] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\广州版\广州版三年级起点四年级下.xlsx】 统计完毕
+[2023-02-01T09:01:09.591] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\教科版\教科版EEC三年级起点三年级上.xlsx】 统计完毕
+[2023-02-01T09:01:09.598] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\教科版\教科版EEC三年级起点三年级下.xlsx】 统计完毕
+[2023-02-01T09:01:09.603] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\教科版\教科版EEC三年级起点五年级上.xlsx】 统计完毕
+[2023-02-01T09:01:09.613] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\教科版\教科版EEC三年级起点五年级下.xlsx】 统计完毕
+[2023-02-01T09:01:09.619] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\教科版\教科版EEC三年级起点六年级上.xlsx】 统计完毕
+[2023-02-01T09:01:09.625] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\教科版\教科版EEC三年级起点六年级下.xlsx】 统计完毕
+[2023-02-01T09:01:09.629] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\教科版\教科版EEC三年级起点四年级上.xlsx】 统计完毕
+[2023-02-01T09:01:09.635] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\教科版\教科版EEC三年级起点四年级下.xlsx】 统计完毕
+[2023-02-01T09:01:09.640] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\沪教版\沪教版三年级起点三年级上.xlsx】 统计完毕
+[2023-02-01T09:01:09.647] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\沪教版\沪教版三年级起点三年级下.xlsx】 统计完毕
+[2023-02-01T09:01:09.654] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\沪教版\沪教版三年级起点五年级上.xlsx】 统计完毕
+[2023-02-01T09:01:09.659] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\沪教版\沪教版三年级起点五年级下.xlsx】 统计完毕
+[2023-02-01T09:01:09.665] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\沪教版\沪教版三年级起点六年级上.xlsx】 统计完毕
+[2023-02-01T09:01:09.671] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\沪教版\沪教版三年级起点六年级下.xlsx】 统计完毕
+[2023-02-01T09:01:09.676] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\沪教版\沪教版三年级起点四年级上.xlsx】 统计完毕
+[2023-02-01T09:01:09.684] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\沪教版\沪教版三年级起点四年级下.xlsx】 统计完毕
+[2023-02-01T09:01:09.693] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\沪教版\沪教版牛津英语七年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:09.702] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\沪教版\沪教版牛津英语七年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:09.711] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\沪教版\沪教版牛津英语九年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:09.721] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\沪教版\沪教版牛津英语九年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:09.730] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\沪教版\沪教版牛津英语八年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:09.740] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\沪教版\沪教版牛津英语八年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:09.744] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\湘少版\湘少版三年级起点三年级上.xlsx】 统计完毕
+[2023-02-01T09:01:09.750] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\湘少版\湘少版三年级起点三年级下.xlsx】 统计完毕
+[2023-02-01T09:01:09.755] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\湘少版\湘少版三年级起点五年级上.xlsx】 统计完毕
+[2023-02-01T09:01:09.760] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\湘少版\湘少版三年级起点五年级下.xlsx】 统计完毕
+[2023-02-01T09:01:09.764] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\湘少版\湘少版三年级起点六年级上.xlsx】 统计完毕
+[2023-02-01T09:01:09.767] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\湘少版\湘少版三年级起点六年级下.xlsx】 统计完毕
+[2023-02-01T09:01:09.771] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\湘少版\湘少版三年级起点四年级上.xlsx】 统计完毕
+[2023-02-01T09:01:09.775] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\湘少版\湘少版三年级起点四年级下.xlsx】 统计完毕
+[2023-02-01T09:01:09.778] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津上海版一年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:09.781] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津上海版一年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:09.790] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津上海版七年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:09.800] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津上海版七年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:09.804] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津上海版三年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:09.808] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津上海版三年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:09.816] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津上海版九年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:09.827] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津上海版九年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:09.831] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津上海版二年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:09.836] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津上海版二年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:09.840] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津上海版五年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:09.845] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津上海版五年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:09.854] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津上海版八年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:09.864] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津上海版八年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:09.872] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津上海版六年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:09.881] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津上海版六年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:09.887] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津上海版四年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:09.891] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津上海版四年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:09.898] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津上海版高一上.xlsx】 统计完毕
+[2023-02-01T09:01:09.907] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津上海版高一下.xlsx】 统计完毕
+[2023-02-01T09:01:09.917] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津上海版高三上.xlsx】 统计完毕
+[2023-02-01T09:01:09.924] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津上海版高三下.xlsx】 统计完毕
+[2023-02-01T09:01:09.935] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津上海版高二上.xlsx】 统计完毕
+[2023-02-01T09:01:09.948] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津上海版高二下.xlsx】 统计完毕
+[2023-02-01T09:01:09.955] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津高中英语（模块一）.xlsx】 统计完毕
+[2023-02-01T09:01:09.967] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津高中英语（模块七）.xlsx】 统计完毕
+[2023-02-01T09:01:09.978] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津高中英语（模块三）.xlsx】 统计完毕
+[2023-02-01T09:01:09.989] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津高中英语（模块九）.xlsx】 统计完毕
+[2023-02-01T09:01:09.998] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津高中英语（模块二）.xlsx】 统计完毕
+[2023-02-01T09:01:10.006] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津高中英语（模块五）.xlsx】 统计完毕
+[2023-02-01T09:01:10.019] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津高中英语（模块八）.xlsx】 统计完毕
+[2023-02-01T09:01:10.030] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津高中英语（模块六）.xlsx】 统计完毕
+[2023-02-01T09:01:10.038] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津高中英语（模块十一）.xlsx】 统计完毕
+[2023-02-01T09:01:10.048] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津高中英语（模块十）.xlsx】 统计完毕
+[2023-02-01T09:01:10.058] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\牛津版\牛津高中英语（模块四）.xlsx】 统计完毕
+[2023-02-01T09:01:10.061] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\科普版\科普版三年级起点三年级上.xlsx】 统计完毕
+[2023-02-01T09:01:10.066] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\科普版\科普版三年级起点三年级下.xlsx】 统计完毕
+[2023-02-01T09:01:10.071] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\科普版\科普版三年级起点五年级上.xlsx】 统计完毕
+[2023-02-01T09:01:10.076] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\科普版\科普版三年级起点五年级下.xlsx】 统计完毕
+[2023-02-01T09:01:10.081] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\科普版\科普版三年级起点六年级上.xlsx】 统计完毕
+[2023-02-01T09:01:10.091] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\科普版\科普版三年级起点六年级下.xlsx】 统计完毕
+[2023-02-01T09:01:10.096] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\科普版\科普版三年级起点四年级上.xlsx】 统计完毕
+[2023-02-01T09:01:10.102] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\科普版\科普版三年级起点四年级下.xlsx】 统计完毕
+[2023-02-01T09:01:10.277] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\PASS高中英语同步词汇译林版.xlsx】 统计完毕
+[2023-02-01T09:01:10.369] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\星火高中英语同步词汇译林版.xlsx】 统计完毕
+[2023-02-01T09:01:10.373] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\译林版一年级上.xlsx】 统计完毕
+[2023-02-01T09:01:10.376] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\译林版一年级下.xlsx】 统计完毕
+[2023-02-01T09:01:10.381] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\译林版三年级起点三年级上.xlsx】 统计完毕
+[2023-02-01T09:01:10.388] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\译林版三年级起点三年级下.xlsx】 统计完毕
+[2023-02-01T09:01:10.397] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\译林版三年级起点五年级上.xlsx】 统计完毕
+[2023-02-01T09:01:10.406] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\译林版三年级起点五年级下.xlsx】 统计完毕
+[2023-02-01T09:01:10.412] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\译林版三年级起点六年级上.xlsx】 统计完毕
+[2023-02-01T09:01:10.420] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\译林版三年级起点六年级下.xlsx】 统计完毕
+[2023-02-01T09:01:10.425] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\译林版三年级起点四年级上.xlsx】 统计完毕
+[2023-02-01T09:01:10.432] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\译林版三年级起点四年级下.xlsx】 统计完毕
+[2023-02-01T09:01:10.435] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\译林版二年级上.xlsx】 统计完毕
+[2023-02-01T09:01:10.437] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\译林版二年级下.xlsx】 统计完毕
+[2023-02-01T09:01:10.439] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\译林版牛津小学英语1A.xlsx】 统计完毕
+[2023-02-01T09:01:10.442] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\译林版牛津小学英语1B.xlsx】 统计完毕
+[2023-02-01T09:01:10.444] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\译林版牛津小学英语2A.xlsx】 统计完毕
+[2023-02-01T09:01:10.448] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\译林版牛津小学英语2B.xlsx】 统计完毕
+[2023-02-01T09:01:10.464] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\译林版牛津英语七年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:10.482] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\译林版牛津英语七年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:10.498] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\译林版牛津英语九年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:10.506] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\译林版牛津英语九年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:10.528] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\译林版牛津英语八年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:10.544] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\译林版牛津英语八年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:10.555] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\译林版高中英语必修第一册.xlsx】 统计完毕
+[2023-02-01T09:01:10.567] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\译林版高中英语必修第三册.xlsx】 统计完毕
+[2023-02-01T09:01:10.580] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\译林版\译林版高中英语必修第二册.xlsx】 统计完毕
+[2023-02-01T09:01:10.585] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\闽教版\闽教版三年级起点三年级上.xlsx】 统计完毕
+[2023-02-01T09:01:10.589] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\闽教版\闽教版三年级起点三年级下.xlsx】 统计完毕
+[2023-02-01T09:01:10.596] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\闽教版\闽教版三年级起点五年级上.xlsx】 统计完毕
+[2023-02-01T09:01:10.600] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\闽教版\闽教版三年级起点五年级下.xlsx】 统计完毕
+[2023-02-01T09:01:10.605] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\闽教版\闽教版三年级起点六年级上.xlsx】 统计完毕
+[2023-02-01T09:01:10.608] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\闽教版\闽教版三年级起点六年级下.xlsx】 统计完毕
+[2023-02-01T09:01:10.612] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\闽教版\闽教版三年级起点四年级上.xlsx】 统计完毕
+[2023-02-01T09:01:10.619] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\闽教版\闽教版三年级起点四年级下.xlsx】 统计完毕
+[2023-02-01T09:01:10.624] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\陕西版\陕西版三年级起点三年级上.xlsx】 统计完毕
+[2023-02-01T09:01:10.627] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\陕西版\陕西版三年级起点三年级下.xlsx】 统计完毕
+[2023-02-01T09:01:10.632] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\陕西版\陕西版三年级起点五年级上.xlsx】 统计完毕
+[2023-02-01T09:01:10.639] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\陕西版\陕西版三年级起点五年级下.xlsx】 统计完毕
+[2023-02-01T09:01:10.644] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\陕西版\陕西版三年级起点六年级上.xlsx】 统计完毕
+[2023-02-01T09:01:10.648] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\陕西版\陕西版三年级起点六年级下.xlsx】 统计完毕
+[2023-02-01T09:01:10.655] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\陕西版\陕西版三年级起点四年级上.xlsx】 统计完毕
+[2023-02-01T09:01:10.659] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\陕西版\陕西版三年级起点四年级下.xlsx】 统计完毕
+[2023-02-01T09:01:10.674] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\鲁教版\鲁教版五四学制七年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:10.684] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\鲁教版\鲁教版五四学制七年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:10.693] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\鲁教版\鲁教版五四学制九年级全册.xlsx】 统计完毕
+[2023-02-01T09:01:10.704] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\鲁教版\鲁教版五四学制八年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:10.717] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\鲁教版\鲁教版五四学制八年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:10.725] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\鲁教版\鲁教版五四学制六年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:10.735] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\鲁教版\鲁教版五四学制六年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:10.738] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\鲁科版\鲁科版五四学制三年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:10.741] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\鲁科版\鲁科版五四学制三年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:10.748] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\鲁科版\鲁科版五四学制五年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:10.752] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\鲁科版\鲁科版五四学制五年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:10.755] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\鲁科版\鲁科版五四学制四年级上册.xlsx】 统计完毕
+[2023-02-01T09:01:10.758] [INFO] info - 【F:\Projects\createdict\dict\1.全国各大教材版本中小学同步\鲁科版\鲁科版五四学制四年级下册.xlsx】 统计完毕
+[2023-02-01T09:01:10.914] [INFO] info - 【F:\Projects\createdict\dict\2.高考\100个句子记完3500个高考单词.xlsx】 统计完毕
+[2023-02-01T09:01:11.105] [INFO] info - 【F:\Projects\createdict\dict\2.高考\2014PASS图解速记高中词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:11.242] [INFO] info - 【F:\Projects\createdict\dict\2.高考\2014高中英语词汇乱序便携版.xlsx】 统计完毕
+[2023-02-01T09:01:11.390] [INFO] info - 【F:\Projects\createdict\dict\2.高考\2014高中英语词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:11.432] [INFO] info - 【F:\Projects\createdict\dict\2.高考\2015PASS图解速记高中短语与句型.xlsx】 统计完毕
+[2023-02-01T09:01:11.537] [INFO] info - 【F:\Projects\createdict\dict\2.高考\20天背完高考核心词汇.xlsx】 统计完毕
+[2023-02-01T09:01:11.637] [INFO] info - 【F:\Projects\createdict\dict\2.高考\24天突破高考大纲词汇3500 主词.xlsx】 统计完毕
+[2023-02-01T09:01:11.775] [INFO] info - 【F:\Projects\createdict\dict\2.高考\24天突破高考大纲词汇3500 含词汇扩充.xlsx】 统计完毕
+[2023-02-01T09:01:11.804] [INFO] info - 【F:\Projects\createdict\dict\2.高考\24天突破高考英语必背短语.xlsx】 统计完毕
+[2023-02-01T09:01:11.973] [INFO] info - 【F:\Projects\createdict\dict\2.高考\Michael老师高考词汇（词群速记）.xlsx】 统计完毕
+[2023-02-01T09:01:12.014] [INFO] info - 【F:\Projects\createdict\dict\2.高考\PASS图解速记高中短语与句型.xlsx】 统计完毕
+[2023-02-01T09:01:12.223] [INFO] info - 【F:\Projects\createdict\dict\2.高考\PASS图解速记高中词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:12.397] [INFO] info - 【F:\Projects\createdict\dict\2.高考\PASS图解速记高中词汇正序版.xlsx】 统计完毕
+[2023-02-01T09:01:12.582] [INFO] info - 【F:\Projects\createdict\dict\2.高考\PASS高中英语词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:12.591] [INFO] info - 【F:\Projects\createdict\dict\2.高考\Word It! 优先顺序高考单词.xlsx】 统计完毕
+[2023-02-01T09:01:12.803] [INFO] info - 【F:\Projects\createdict\dict\2.高考\中学英语词汇速记速诀（高考）.xlsx】 统计完毕
+[2023-02-01T09:01:12.958] [INFO] info - 【F:\Projects\createdict\dict\2.高考\及时雨高考英语词汇手册.xlsx】 统计完毕
+[2023-02-01T09:01:13.136] [INFO] info - 【F:\Projects\createdict\dict\2.高考\名校名师高考英语考纲全攻略.xlsx】 统计完毕
+[2023-02-01T09:01:13.216] [INFO] info - 【F:\Projects\createdict\dict\2.高考\思思大王高考单词一笑而过.xlsx】 统计完毕
+[2023-02-01T09:01:13.299] [INFO] info - 【F:\Projects\createdict\dict\2.高考\思思大王高考单词一笑而过（白金版）.xlsx】 统计完毕
+[2023-02-01T09:01:13.389] [INFO] info - 【F:\Projects\createdict\dict\2.高考\恋练有词高考英语词汇上.xlsx】 统计完毕
+[2023-02-01T09:01:13.489] [INFO] info - 【F:\Projects\createdict\dict\2.高考\恋练有词高考英语词汇下.xlsx】 统计完毕
+[2023-02-01T09:01:13.651] [INFO] info - 【F:\Projects\createdict\dict\2.高考\星火抗遗忘高考词汇3500.xlsx】 统计完毕
+[2023-02-01T09:01:13.953] [INFO] info - 【F:\Projects\createdict\dict\2.高考\星火最新高考必备.xlsx】 统计完毕
+[2023-02-01T09:01:14.152] [INFO] info - 【F:\Projects\createdict\dict\2.高考\星火最新高考词汇必背乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:14.285] [INFO] info - 【F:\Projects\createdict\dict\2.高考\星火英语高考词汇随身记.xlsx】 统计完毕
+[2023-02-01T09:01:14.503] [INFO] info - 【F:\Projects\createdict\dict\2.高考\星火高中英语词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:14.665] [INFO] info - 【F:\Projects\createdict\dict\2.高考\星火高考英语词汇巧记速记.xlsx】 统计完毕
+[2023-02-01T09:01:14.809] [INFO] info - 【F:\Projects\createdict\dict\2.高考\星火高考词汇周计划.xlsx】 统计完毕
+[2023-02-01T09:01:15.016] [INFO] info - 【F:\Projects\createdict\dict\2.高考\星火高考词汇必背乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:15.160] [INFO] info - 【F:\Projects\createdict\dict\2.高考\颠覆高考词汇快速记忆图谱.xlsx】 统计完毕
+[2023-02-01T09:01:15.188] [INFO] info - 【F:\Projects\createdict\dict\2.高考\高中英语常考短语与句型.xlsx】 统计完毕
+[2023-02-01T09:01:15.353] [INFO] info - 【F:\Projects\createdict\dict\2.高考\高中英语词汇乱序便携版.xlsx】 统计完毕
+[2023-02-01T09:01:15.504] [INFO] info - 【F:\Projects\createdict\dict\2.高考\高中英语词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:15.643] [INFO] info - 【F:\Projects\createdict\dict\2.高考\高中英语词汇正序版.xlsx】 统计完毕
+[2023-02-01T09:01:15.731] [INFO] info - 【F:\Projects\createdict\dict\2.高考\高中英语词汇高一版.xlsx】 统计完毕
+[2023-02-01T09:01:15.819] [INFO] info - 【F:\Projects\createdict\dict\2.高考\高中英语词汇高二版.xlsx】 统计完毕
+[2023-02-01T09:01:15.826] [INFO] info - 【F:\Projects\createdict\dict\2.高考\高级英语2（第三版）.xlsx】 统计完毕
+[2023-02-01T09:01:15.858] [INFO] info - 【F:\Projects\createdict\dict\2.高考\高考历年真题核心高频688.xlsx】 统计完毕
+[2023-02-01T09:01:15.983] [INFO] info - 【F:\Projects\createdict\dict\2.高考\高考英语3500词汇考点助记.xlsx】 统计完毕
+[2023-02-01T09:01:16.123] [INFO] info - 【F:\Projects\createdict\dict\2.高考\高考英语大纲词汇表.xlsx】 统计完毕
+[2023-02-01T09:01:16.273] [INFO] info - 【F:\Projects\createdict\dict\2.高考\高考英语词汇大纲.xlsx】 统计完毕
+[2023-02-01T09:01:16.417] [INFO] info - 【F:\Projects\createdict\dict\2.高考\高考英语词汇手册.xlsx】 统计完毕
+[2023-02-01T09:01:16.579] [INFO] info - 【F:\Projects\createdict\dict\2.高考\高考英语词汇手册（上海卷）.xlsx】 统计完毕
+[2023-02-01T09:01:16.637] [INFO] info - 【F:\Projects\createdict\dict\2.高考\高考词汇分频速记宝典.xlsx】 统计完毕
+[2023-02-01T09:01:16.672] [INFO] info - 【F:\Projects\createdict\dict\2.高考\高考词汇分频速记宝典便携版.xlsx】 统计完毕
+[2023-02-01T09:01:16.851] [INFO] info - 【F:\Projects\createdict\dict\2.高考\高考词汇闪过.xlsx】 统计完毕
+[2023-02-01T09:01:17.033] [INFO] info - 【F:\Projects\createdict\dict\3.专四\2014专四词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:17.217] [INFO] info - 【F:\Projects\createdict\dict\3.专四\2015华研专四词汇突破8000.xlsx】 统计完毕
+[2023-02-01T09:01:17.437] [INFO] info - 【F:\Projects\createdict\dict\3.专四\专四词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:17.645] [INFO] info - 【F:\Projects\createdict\dict\3.专四\专四词汇便携版.xlsx】 统计完毕
+[2023-02-01T09:01:17.805] [INFO] info - 【F:\Projects\createdict\dict\3.专四\专四词汇正序版.xlsx】 统计完毕
+[2023-02-01T09:01:18.033] [INFO] info - 【F:\Projects\createdict\dict\3.专四\专四词汇词以类记.xlsx】 统计完毕
+[2023-02-01T09:01:18.183] [INFO] info - 【F:\Projects\createdict\dict\3.专四\十天搞定专四词汇便携版.xlsx】 统计完毕
+[2023-02-01T09:01:18.371] [INFO] info - 【F:\Projects\createdict\dict\3.专四\华研专四词汇突破8000.xlsx】 统计完毕
+[2023-02-01T09:01:18.557] [INFO] info - 【F:\Projects\createdict\dict\3.专四\如鱼得水专四词汇语境记忆.xlsx】 统计完毕
+[2023-02-01T09:01:18.763] [INFO] info - 【F:\Projects\createdict\dict\3.专四\星火专四大纲词汇表.xlsx】 统计完毕
+[2023-02-01T09:01:18.936] [INFO] info - 【F:\Projects\createdict\dict\3.专四\星火专四词汇巧记速记.xlsx】 统计完毕
+[2023-02-01T09:01:19.130] [INFO] info - 【F:\Projects\createdict\dict\3.专四\星火专四词汇必背乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:19.471] [INFO] info - 【F:\Projects\createdict\dict\3.专四\英语专业四级大纲词汇.xlsx】 统计完毕
+[2023-02-01T09:01:19.581] [INFO] info - 【F:\Projects\createdict\dict\3.专四\英语专业四级词汇周计划.xlsx】 统计完毕
+[2023-02-01T09:01:19.652] [INFO] info - 【F:\Projects\createdict\dict\3.专四\读名著学专四词汇.xlsx】 统计完毕
+[2023-02-01T09:01:19.751] [INFO] info - 【F:\Projects\createdict\dict\3.四级\2010星火四级词汇必背乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:19.932] [INFO] info - 【F:\Projects\createdict\dict\3.四级\2013四级词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:20.095] [INFO] info - 【F:\Projects\createdict\dict\3.四级\2013四级词汇便携版.xlsx】 统计完毕
+[2023-02-01T09:01:20.267] [INFO] info - 【F:\Projects\createdict\dict\3.四级\2013四级词汇正序版.xlsx】 统计完毕
+[2023-02-01T09:01:20.371] [INFO] info - 【F:\Projects\createdict\dict\3.四级\20天背完四级核心词汇.xlsx】 统计完毕
+[2023-02-01T09:01:20.459] [INFO] info - 【F:\Projects\createdict\dict\3.四级\十天搞定四级词汇便携版.xlsx】 统计完毕
+[2023-02-01T09:01:20.494] [INFO] info - 【F:\Projects\createdict\dict\3.四级\四六级常考核心词组1500.xlsx】 统计完毕
+[2023-02-01T09:01:20.549] [INFO] info - 【F:\Projects\createdict\dict\3.四级\四六级常考词组必备.xlsx】 统计完毕
+[2023-02-01T09:01:20.703] [INFO] info - 【F:\Projects\createdict\dict\3.四级\四级新大纲词汇表.xlsx】 统计完毕
+[2023-02-01T09:01:20.829] [INFO] info - 【F:\Projects\createdict\dict\3.四级\四级词汇乱序便携版.xlsx】 统计完毕
+[2023-02-01T09:01:21.018] [INFO] info - 【F:\Projects\createdict\dict\3.四级\四级词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:21.184] [INFO] info - 【F:\Projects\createdict\dict\3.四级\四级词汇便携版.xlsx】 统计完毕
+[2023-02-01T09:01:21.371] [INFO] info - 【F:\Projects\createdict\dict\3.四级\四级词汇分频精讲速记.xlsx】 统计完毕
+[2023-02-01T09:01:21.477] [INFO] info - 【F:\Projects\createdict\dict\3.四级\四级词汇念念不忘.xlsx】 统计完毕
+[2023-02-01T09:01:21.678] [INFO] info - 【F:\Projects\createdict\dict\3.四级\四级词汇正序版.xlsx】 统计完毕
+[2023-02-01T09:01:21.888] [INFO] info - 【F:\Projects\createdict\dict\3.四级\四级词汇闪过.xlsx】 统计完毕
+[2023-02-01T09:01:21.929] [INFO] info - 【F:\Projects\createdict\dict\3.四级\四级高频词汇2000.xlsx】 统计完毕
+[2023-02-01T09:01:22.171] [INFO] info - 【F:\Projects\createdict\dict\3.四级\墨墨四级深度记忆宝典 全部单词.xlsx】 统计完毕
+[2023-02-01T09:01:22.241] [INFO] info - 【F:\Projects\createdict\dict\3.四级\墨墨四级深度记忆宝典 核心词.xlsx】 统计完毕
+[2023-02-01T09:01:22.349] [INFO] info - 【F:\Projects\createdict\dict\3.四级\大学四级考试词汇黑白记忆.xlsx】 统计完毕
+[2023-02-01T09:01:22.437] [INFO] info - 【F:\Projects\createdict\dict\3.四级\思思大王四级一笑而过.xlsx】 统计完毕
+[2023-02-01T09:01:22.523] [INFO] info - 【F:\Projects\createdict\dict\3.四级\思思大王四级一笑而过（白金版）.xlsx】 统计完毕
+[2023-02-01T09:01:22.659] [INFO] info - 【F:\Projects\createdict\dict\3.四级\恋练有词四级词汇.xlsx】 统计完毕
+[2023-02-01T09:01:22.826] [INFO] info - 【F:\Projects\createdict\dict\3.四级\星火四级大纲词汇表.xlsx】 统计完毕
+[2023-02-01T09:01:22.911] [INFO] info - 【F:\Projects\createdict\dict\3.四级\星火四级巧记速记.xlsx】 统计完毕
+[2023-02-01T09:01:23.005] [INFO] info - 【F:\Projects\createdict\dict\3.四级\星火四级词汇必背乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:23.088] [INFO] info - 【F:\Projects\createdict\dict\3.四级\星火艾锋四级词汇周计划.xlsx】 统计完毕
+[2023-02-01T09:01:23.197] [INFO] info - 【F:\Projects\createdict\dict\3.四级\星火英语四级词汇周计划Superbook.xlsx】 统计完毕
+[2023-02-01T09:01:23.289] [INFO] info - 【F:\Projects\createdict\dict\3.四级\考虫四级单词的减法.xlsx】 统计完毕
+[2023-02-01T09:01:23.384] [INFO] info - 【F:\Projects\createdict\dict\3.四级\英语四六级考试词汇必备.xlsx】 统计完毕
+[2023-02-01T09:01:23.412] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\21世纪大学英语综合教程1（S版）.xlsx】 统计完毕
+[2023-02-01T09:01:23.442] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\21世纪大学英语综合教程2（S版）.xlsx】 统计完毕
+[2023-02-01T09:01:23.472] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\21世纪大学英语综合教程3（S版）.xlsx】 统计完毕
+[2023-02-01T09:01:23.497] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\21世纪大学英语综合教程4（S版）.xlsx】 统计完毕
+[2023-02-01T09:01:23.810] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\全国大学生英语竞赛必背词汇8000.xlsx】 统计完毕
+[2023-02-01T09:01:23.840] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\全新版大学英语综合教程1（第二版）.xlsx】 统计完毕
+[2023-02-01T09:01:23.870] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\全新版大学英语综合教程2（第二版）.xlsx】 统计完毕
+[2023-02-01T09:01:23.899] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\全新版大学英语综合教程3（第二版）.xlsx】 统计完毕
+[2023-02-01T09:01:23.934] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\全新版大学英语综合教程4（第二版）.xlsx】 统计完毕
+[2023-02-01T09:01:23.973] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\全新版大学英语综合教程5（第二版）.xlsx】 统计完毕
+[2023-02-01T09:01:24.021] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\全新版大学英语综合教程6（第二版）.xlsx】 统计完毕
+[2023-02-01T09:01:24.044] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\全新版大学进阶英语综合教程1.xlsx】 统计完毕
+[2023-02-01T09:01:24.076] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\全新版大学进阶英语综合教程2.xlsx】 统计完毕
+[2023-02-01T09:01:24.103] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\全新版大学进阶英语综合教程3.xlsx】 统计完毕
+[2023-02-01T09:01:24.130] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\全新版大学进阶英语综合教程4.xlsx】 统计完毕
+[2023-02-01T09:01:24.138] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\全新版大学进阶英语视听说教程1.xlsx】 统计完毕
+[2023-02-01T09:01:24.149] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\全新版大学进阶英语视听说教程2.xlsx】 统计完毕
+[2023-02-01T09:01:24.155] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\全新版大学进阶英语视听说教程3.xlsx】 统计完毕
+[2023-02-01T09:01:24.161] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\全新版大学进阶英语视听说教程4.xlsx】 统计完毕
+[2023-02-01T09:01:24.173] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\前景大学英语综合教程1（基础版）.xlsx】 统计完毕
+[2023-02-01T09:01:24.186] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\前景大学英语综合教程2（基础版）.xlsx】 统计完毕
+[2023-02-01T09:01:24.198] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\前景大学英语综合教程3（基础版）.xlsx】 统计完毕
+[2023-02-01T09:01:24.222] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\大学体验英语综合教程上册（第四版）.xlsx】 统计完毕
+[2023-02-01T09:01:24.247] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\大学体验英语综合教程下册（第四版）.xlsx】 统计完毕
+[2023-02-01T09:01:24.331] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\大学生英语竞赛C类本科生核心词汇2000.xlsx】 统计完毕
+[2023-02-01T09:01:24.647] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\大学英语六级考试大纲.xlsx】 统计完毕
+[2023-02-01T09:01:24.886] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\大学英语四级考试大纲.xlsx】 统计完毕
+[2023-02-01T09:01:24.904] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\大学英语基础教程1（第三版）.xlsx】 统计完毕
+[2023-02-01T09:01:24.923] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\大学英语基础教程2（第三版）.xlsx】 统计完毕
+[2023-02-01T09:01:24.942] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\大学英语基础教程3（第三版）.xlsx】 统计完毕
+[2023-02-01T09:01:24.970] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\大学英语基础教程4（第三版）.xlsx】 统计完毕
+[2023-02-01T09:01:24.997] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\大学英语精读1（第三版）.xlsx】 统计完毕
+[2023-02-01T09:01:25.027] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\大学英语精读2（第三版）.xlsx】 统计完毕
+[2023-02-01T09:01:25.057] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\大学英语精读3（第三版）.xlsx】 统计完毕
+[2023-02-01T09:01:25.091] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\大学英语精读4（第三版）.xlsx】 统计完毕
+[2023-02-01T09:01:25.119] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\大学英语精读5（第三版）.xlsx】 统计完毕
+[2023-02-01T09:01:25.150] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\大学英语精读6（第三版）.xlsx】 统计完毕
+[2023-02-01T09:01:25.174] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新一代大学英语综合教程1基础篇.xlsx】 统计完毕
+[2023-02-01T09:01:25.196] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新一代大学英语综合教程2基础篇.xlsx】 统计完毕
+[2023-02-01T09:01:25.217] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新世纪大学英语综合教程1（第二版）.xlsx】 统计完毕
+[2023-02-01T09:01:25.237] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新世纪大学英语综合教程2（第二版）.xlsx】 统计完毕
+[2023-02-01T09:01:25.253] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新世纪大学英语综合教程3（第二版）.xlsx】 统计完毕
+[2023-02-01T09:01:25.268] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新世纪大学英语综合教程4（第二版）.xlsx】 统计完毕
+[2023-02-01T09:01:25.281] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新标准大学英语综合教程1.xlsx】 统计完毕
+[2023-02-01T09:01:25.307] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新标准大学英语综合教程1（第二版）.xlsx】 统计完毕
+[2023-02-01T09:01:25.318] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新标准大学英语综合教程2.xlsx】 统计完毕
+[2023-02-01T09:01:25.350] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新标准大学英语综合教程2（第二版）.xlsx】 统计完毕
+[2023-02-01T09:01:25.360] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新标准大学英语综合教程3.xlsx】 统计完毕
+[2023-02-01T09:01:25.398] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新标准大学英语综合教程3（第二版）.xlsx】 统计完毕
+[2023-02-01T09:01:25.408] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新标准大学英语综合教程4.xlsx】 统计完毕
+[2023-02-01T09:01:25.441] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新标准大学英语综合教程4（第二版）.xlsx】 统计完毕
+[2023-02-01T09:01:25.472] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新目标大学英语综合教程1.xlsx】 统计完毕
+[2023-02-01T09:01:25.503] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新目标大学英语综合教程2.xlsx】 统计完毕
+[2023-02-01T09:01:25.533] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新目标大学英语综合教程3.xlsx】 统计完毕
+[2023-02-01T09:01:25.569] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新目标大学英语综合教程4.xlsx】 统计完毕
+[2023-02-01T09:01:25.602] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新编大学英语1（第二版）.xlsx】 统计完毕
+[2023-02-01T09:01:25.643] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新编大学英语2（第二版）.xlsx】 统计完毕
+[2023-02-01T09:01:25.685] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新编大学英语3（第二版）.xlsx】 统计完毕
+[2023-02-01T09:01:25.721] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新编大学英语4（第二版）.xlsx】 统计完毕
+[2023-02-01T09:01:25.754] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新视野大学英语读写教程1（第三版）.xlsx】 统计完毕
+[2023-02-01T09:01:25.787] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新视野大学英语读写教程2（第三版）.xlsx】 统计完毕
+[2023-02-01T09:01:25.818] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新视野大学英语读写教程3（第三版）.xlsx】 统计完毕
+[2023-02-01T09:01:25.850] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\新视野大学英语读写教程4（第三版）.xlsx】 统计完毕
+[2023-02-01T09:01:25.866] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\现代大学英语全程辅导精读5（第二版）.xlsx】 统计完毕
+[2023-02-01T09:01:25.895] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\英语综合教程(修订版)学生用书第二册.xlsx】 统计完毕
+[2023-02-01T09:01:26.053] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\英语（一）自学教程.xlsx】 统计完毕
+[2023-02-01T09:01:26.285] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\英语（二）自学教程.xlsx】 统计完毕
+[2023-02-01T09:01:26.298] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\高级英语1（第三版）.xlsx】 统计完毕
+[2023-02-01T09:01:26.311] [INFO] info - 【F:\Projects\createdict\dict\3.大学英语\高级英语2（第三版）.xlsx】 统计完毕
+[2023-02-01T09:01:26.539] [INFO] info - 【F:\Projects\createdict\dict\4.专八\2010专八词汇正序版.xlsx】 统计完毕
+[2023-02-01T09:01:26.765] [INFO] info - 【F:\Projects\createdict\dict\4.专八\2013专八词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:26.799] [INFO] info - 【F:\Projects\createdict\dict\4.专八\21天突破英语专4核心词汇.xlsx】 统计完毕
+[2023-02-01T09:01:27.007] [INFO] info - 【F:\Projects\createdict\dict\4.专八\专八词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:27.205] [INFO] info - 【F:\Projects\createdict\dict\4.专八\专八词汇便携版.xlsx】 统计完毕
+[2023-02-01T09:01:27.416] [INFO] info - 【F:\Projects\createdict\dict\4.专八\专八词汇正序版.xlsx】 统计完毕
+[2023-02-01T09:01:27.664] [INFO] info - 【F:\Projects\createdict\dict\4.专八\专八词汇词以类记.xlsx】 统计完毕
+[2023-02-01T09:01:27.853] [INFO] info - 【F:\Projects\createdict\dict\4.专八\华研专八词汇突破13000.xlsx】 统计完毕
+[2023-02-01T09:01:28.004] [INFO] info - 【F:\Projects\createdict\dict\4.专八\如鱼得水专八词汇语境记忆.xlsx】 统计完毕
+[2023-02-01T09:01:28.301] [INFO] info - 【F:\Projects\createdict\dict\4.专八\星火专8巧记速记.xlsx】 统计完毕
+[2023-02-01T09:01:28.462] [INFO] info - 【F:\Projects\createdict\dict\4.专八\星火全新专4词汇周计划.xlsx】 统计完毕
+[2023-02-01T09:01:28.609] [INFO] info - 【F:\Projects\createdict\dict\4.专八\星火全新专8词汇周计划.xlsx】 统计完毕
+[2023-02-01T09:01:28.945] [INFO] info - 【F:\Projects\createdict\dict\4.专八\星火全新专8词汇必背.xlsx】 统计完毕
+[2023-02-01T09:01:29.408] [INFO] info - 【F:\Projects\createdict\dict\4.专八\英语专业八级大纲词汇.xlsx】 统计完毕
+[2023-02-01T09:01:29.513] [INFO] info - 【F:\Projects\createdict\dict\4.六级\2011六级词汇便携版.xlsx】 统计完毕
+[2023-02-01T09:01:29.609] [INFO] info - 【F:\Projects\createdict\dict\4.六级\2014六级词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:29.718] [INFO] info - 【F:\Projects\createdict\dict\4.六级\2014思思大王六级一笑而过.xlsx】 统计完毕
+[2023-02-01T09:01:29.781] [INFO] info - 【F:\Projects\createdict\dict\4.六级\2017十天搞定六级词汇便携版.xlsx】 统计完毕
+[2023-02-01T09:01:29.874] [INFO] info - 【F:\Projects\createdict\dict\4.六级\20天背完六级核心词汇.xlsx】 统计完毕
+[2023-02-01T09:01:29.973] [INFO] info - 【F:\Projects\createdict\dict\4.六级\4级词汇词以类记.xlsx】 统计完毕
+[2023-02-01T09:01:30.068] [INFO] info - 【F:\Projects\createdict\dict\4.六级\6级词汇词以类记.xlsx】 统计完毕
+[2023-02-01T09:01:30.219] [INFO] info - 【F:\Projects\createdict\dict\4.六级\PASS六级词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:30.421] [INFO] info - 【F:\Projects\createdict\dict\4.六级\六级新大纲词汇表.xlsx】 统计完毕
+[2023-02-01T09:01:30.523] [INFO] info - 【F:\Projects\createdict\dict\4.六级\六级核心词汇分类速记版.xlsx】 统计完毕
+[2023-02-01T09:01:30.600] [INFO] info - 【F:\Projects\createdict\dict\4.六级\六级核心高频词汇突破.xlsx】 统计完毕
+[2023-02-01T09:01:30.742] [INFO] info - 【F:\Projects\createdict\dict\4.六级\六级词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:30.860] [INFO] info - 【F:\Projects\createdict\dict\4.六级\六级词汇便携版.xlsx】 统计完毕
+[2023-02-01T09:01:30.954] [INFO] info - 【F:\Projects\createdict\dict\4.六级\六级词汇分级应用大全.xlsx】 统计完毕
+[2023-02-01T09:01:31.086] [INFO] info - 【F:\Projects\createdict\dict\4.六级\六级词汇分频精讲速记.xlsx】 统计完毕
+[2023-02-01T09:01:31.240] [INFO] info - 【F:\Projects\createdict\dict\4.六级\六级词汇念念不忘便携本.xlsx】 统计完毕
+[2023-02-01T09:01:31.372] [INFO] info - 【F:\Projects\createdict\dict\4.六级\六级词汇念念不忘基础本.xlsx】 统计完毕
+[2023-02-01T09:01:31.436] [INFO] info - 【F:\Projects\createdict\dict\4.六级\六级词汇念念不忘阅读本.xlsx】 统计完毕
+[2023-02-01T09:01:31.537] [INFO] info - 【F:\Projects\createdict\dict\4.六级\六级词汇正序版.xlsx】 统计完毕
+[2023-02-01T09:01:31.757] [INFO] info - 【F:\Projects\createdict\dict\4.六级\六级词汇闪过乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:31.814] [INFO] info - 【F:\Projects\createdict\dict\4.六级\十天搞定六级词汇便携版.xlsx】 统计完毕
+[2023-02-01T09:01:31.971] [INFO] info - 【F:\Projects\createdict\dict\4.六级\华研淘金专业4级周计划卡片.xlsx】 统计完毕
+[2023-02-01T09:01:32.207] [INFO] info - 【F:\Projects\createdict\dict\4.六级\墨墨六级深度记忆宝典 全部单词.xlsx】 统计完毕
+[2023-02-01T09:01:32.286] [INFO] info - 【F:\Projects\createdict\dict\4.六级\墨墨六级深度记忆宝典 核心词.xlsx】 统计完毕
+[2023-02-01T09:01:32.413] [INFO] info - 【F:\Projects\createdict\dict\4.六级\思思大王六级一笑而过.xlsx】 统计完毕
+[2023-02-01T09:01:32.522] [INFO] info - 【F:\Projects\createdict\dict\4.六级\思思大王六级一笑而过（白金版）.xlsx】 统计完毕
+[2023-02-01T09:01:32.779] [INFO] info - 【F:\Projects\createdict\dict\4.六级\恋练有词六级词汇.xlsx】 统计完毕
+[2023-02-01T09:01:32.850] [INFO] info - 【F:\Projects\createdict\dict\4.六级\恋练有词六级词汇高分锦囊.xlsx】 统计完毕
+[2023-02-01T09:01:32.925] [INFO] info - 【F:\Projects\createdict\dict\4.六级\星火4级巧记速记乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:33.105] [INFO] info - 【F:\Projects\createdict\dict\4.六级\星火6级词汇周计划Superbook.xlsx】 统计完毕
+[2023-02-01T09:01:33.290] [INFO] info - 【F:\Projects\createdict\dict\4.六级\星火6级词汇必背.xlsx】 统计完毕
+[2023-02-01T09:01:33.579] [INFO] info - 【F:\Projects\createdict\dict\4.六级\星火六级巧记速记.xlsx】 统计完毕
+[2023-02-01T09:01:33.689] [INFO] info - 【F:\Projects\createdict\dict\4.六级\星火六级巧记速记乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:33.858] [INFO] info - 【F:\Projects\createdict\dict\4.六级\星火新题型6级词汇周计划.xlsx】 统计完毕
+[2023-02-01T09:01:33.970] [INFO] info - 【F:\Projects\createdict\dict\4.六级\星火艾峰六级词汇周计划（新大纲）.xlsx】 统计完毕
+[2023-02-01T09:01:34.070] [INFO] info - 【F:\Projects\createdict\dict\4.六级\星火艾派六级词汇周计划.xlsx】 统计完毕
+[2023-02-01T09:01:34.160] [INFO] info - 【F:\Projects\createdict\dict\4.六级\星火词汇必背4级乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:34.250] [INFO] info - 【F:\Projects\createdict\dict\4.六级\星火词网六级新大纲.xlsx】 统计完毕
+[2023-02-01T09:01:34.375] [INFO] info - 【F:\Projects\createdict\dict\4.六级\淘金4级分频周计划乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:34.492] [INFO] info - 【F:\Projects\createdict\dict\4.六级\淘金4级词汇连环记乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:34.581] [INFO] info - 【F:\Projects\createdict\dict\4.六级\淘金6级分频周计划乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:34.706] [INFO] info - 【F:\Projects\createdict\dict\4.六级\淘金式巧攻大学词汇4级分册.xlsx】 统计完毕
+[2023-02-01T09:01:34.840] [INFO] info - 【F:\Projects\createdict\dict\4.六级\考拉进阶4级词汇周计划.xlsx】 统计完毕
+[2023-02-01T09:01:34.911] [INFO] info - 【F:\Projects\createdict\dict\4.六级\考虫六级单词的减法.xlsx】 统计完毕
+[2023-02-01T09:01:35.002] [INFO] info - 【F:\Projects\createdict\dict\4.六级\英语词汇的奥秘（六级版）.xlsx】 统计完毕
+[2023-02-01T09:01:35.321] [INFO] info - 【F:\Projects\createdict\dict\4.六级\黄皮书六级大纲词汇背诵宝典.xlsx】 统计完毕
+[2023-02-01T09:01:35.505] [INFO] info - 【F:\Projects\createdict\dict\5.考研\100个句子记完5500个考研单词.xlsx】 统计完毕
+[2023-02-01T09:01:35.726] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2013考研词汇便携版.xlsx】 统计完毕
+[2023-02-01T09:01:35.995] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2013考研词汇正序版.xlsx】 统计完毕
+[2023-02-01T09:01:36.245] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2014考研英语词汇红宝书.xlsx】 统计完毕
+[2023-02-01T09:01:36.527] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2014考研词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:36.778] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2015考研英语词汇红宝书.xlsx】 统计完毕
+[2023-02-01T09:01:37.055] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2015考研词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:37.262] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2016恋练有词考研英语词汇.xlsx】 统计完毕
+[2023-02-01T09:01:37.460] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2016老蒋讲词汇考研英语（二）.xlsx】 统计完毕
+[2023-02-01T09:01:37.690] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2016考研英语词汇红宝书.xlsx】 统计完毕
+[2023-02-01T09:01:37.858] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2017何凯文考研英语必考词汇.xlsx】 统计完毕
+[2023-02-01T09:01:37.880] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2017恋练有词考研词组背多分.xlsx】 统计完毕
+[2023-02-01T09:01:38.069] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2017考研英语词汇强词有理.xlsx】 统计完毕
+[2023-02-01T09:01:38.276] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2017考研英语词汇抢分速记蓝皮书.xlsx】 统计完毕
+[2023-02-01T09:01:38.499] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2017考研英语词汇红宝书.xlsx】 统计完毕
+[2023-02-01T09:01:38.513] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2017陈正康七天突破必考词组（第2版）.xlsx】 统计完毕
+[2023-02-01T09:01:38.859] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2017陈正康考研分频第2版.xlsx】 统计完毕
+[2023-02-01T09:01:39.069] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2017黄皮书考研二大纲词汇背诵宝典.xlsx】 统计完毕
+[2023-02-01T09:01:39.237] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2018何凯文考研英语必考词汇.xlsx】 统计完毕
+[2023-02-01T09:01:39.538] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2018刘一男考研词汇速记指南.xlsx】 统计完毕
+[2023-02-01T09:01:39.562] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2018命题人预测8套卷考研英语（一）.xlsx】 统计完毕
+[2023-02-01T09:01:39.645] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2018恋练有词考研英语词汇.xlsx】 统计完毕
+[2023-02-01T09:01:39.687] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2018恋练有词考研词组背多分.xlsx】 统计完毕
+[2023-02-01T09:01:39.811] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2018恋练有词考研高分锦囊.xlsx】 统计完毕
+[2023-02-01T09:01:40.081] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2018考研英语词汇红宝书.xlsx】 统计完毕
+[2023-02-01T09:01:40.094] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2018考研英语高分写作.xlsx】 统计完毕
+[2023-02-01T09:01:40.305] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2018考研词汇闪过.xlsx】 统计完毕
+[2023-02-01T09:01:40.618] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2018陈正康考研分频第3版.xlsx】 统计完毕
+[2023-02-01T09:01:40.828] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2018黄皮书考研一大纲词汇背诵宝典.xlsx】 统计完毕
+[2023-02-01T09:01:40.993] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2019何凯文考研英语必考词汇.xlsx】 统计完毕
+[2023-02-01T09:01:41.394] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2019刘一男考研词汇速记指南.xlsx】 统计完毕
+[2023-02-01T09:01:41.533] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2019华研考研英语二念念不忘便携本.xlsx】 统计完毕
+[2023-02-01T09:01:41.761] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2019华研考研英语二念念不忘基础本.xlsx】 统计完毕
+[2023-02-01T09:01:41.820] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2019华研考研英语二念念不忘阅读本.xlsx】 统计完毕
+[2023-02-01T09:01:41.896] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2019恋练有词考研英语词汇.xlsx】 统计完毕
+[2023-02-01T09:01:41.935] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2019恋练有词考研英语词组.xlsx】 统计完毕
+[2023-02-01T09:01:42.053] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2019恋练有词考研高分锦囊.xlsx】 统计完毕
+[2023-02-01T09:01:42.274] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2019李剑考研英语词汇真经.xlsx】 统计完毕
+[2023-02-01T09:01:42.379] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2019研词考研词汇大全解.xlsx】 统计完毕
+[2023-02-01T09:01:42.501] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2019老蒋8天搞定英二真题词汇.xlsx】 统计完毕
+[2023-02-01T09:01:42.751] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2019考研英语词汇红宝书.xlsx】 统计完毕
+[2023-02-01T09:01:42.794] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2019考研非常词汇圈定难点.xlsx】 统计完毕
+[2023-02-01T09:01:42.901] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2019考研非常词汇基础薄弱专用.xlsx】 统计完毕
+[2023-02-01T09:01:43.122] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2019考研非常词汇指明重点.xlsx】 统计完毕
+[2023-02-01T09:01:43.347] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2019考研非常词汇理出弱点.xlsx】 统计完毕
+[2023-02-01T09:01:43.457] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2019考研高频核心词汇速记.xlsx】 统计完毕
+[2023-02-01T09:01:43.573] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2019陈正康考研分频第4版全册.xlsx】 统计完毕
+[2023-02-01T09:01:43.827] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020中公教育考研（一）词汇狂背.xlsx】 统计完毕
+[2023-02-01T09:01:44.072] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020中公教育考研（二）词汇狂背.xlsx】 统计完毕
+[2023-02-01T09:01:44.338] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020于慧考研真题100篇词汇分册.xlsx】 统计完毕
+[2023-02-01T09:01:44.502] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020何凯文考研英语必考词汇.xlsx】 统计完毕
+[2023-02-01T09:01:44.664] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020刘一男考研词汇速记指南.xlsx】 统计完毕
+[2023-02-01T09:01:44.912] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020刘晓艳你还在背“单”词吗.xlsx】 统计完毕
+[2023-02-01T09:01:45.055] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020华研考研英语一念念不忘便携本.xlsx】 统计完毕
+[2023-02-01T09:01:45.306] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020华研考研英语一念念不忘基础本.xlsx】 统计完毕
+[2023-02-01T09:01:45.360] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020华研考研英语一念念不忘阅读本.xlsx】 统计完毕
+[2023-02-01T09:01:45.506] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020华研考研英语二念念不忘便携本.xlsx】 统计完毕
+[2023-02-01T09:01:45.731] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020华研考研英语二念念不忘基础本.xlsx】 统计完毕
+[2023-02-01T09:01:45.787] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020华研考研英语二念念不忘阅读本.xlsx】 统计完毕
+[2023-02-01T09:01:46.039] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020墨墨 · 我的考研词汇笔记.xlsx】 统计完毕
+[2023-02-01T09:01:46.110] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020墨墨考研深度记忆宝典 1948.xlsx】 统计完毕
+[2023-02-01T09:01:46.417] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020墨墨考研深度记忆宝典.xlsx】 统计完毕
+[2023-02-01T09:01:46.642] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020恋练有词考研英语词汇.xlsx】 统计完毕
+[2023-02-01T09:01:46.681] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020恋练有词考研英语词组.xlsx】 统计完毕
+[2023-02-01T09:01:46.721] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020恋词熟词僻义识记与应用大全.xlsx】 统计完毕
+[2023-02-01T09:01:46.891] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020恋词考研7000词 主词.xlsx】 统计完毕
+[2023-02-01T09:01:47.115] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020恋词考研7000词 含派生词.xlsx】 统计完毕
+[2023-02-01T09:01:47.354] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020恋词考研7000词速刷手册.xlsx】 统计完毕
+[2023-02-01T09:01:47.578] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020恋词考研英语真题5500词.xlsx】 统计完毕
+[2023-02-01T09:01:47.811] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020李剑考研英语词汇真经.xlsx】 统计完毕
+[2023-02-01T09:01:47.882] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020王江涛考研英语（二）满分写作.xlsx】 统计完毕
+[2023-02-01T09:01:47.968] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020研词考研词汇大全解.xlsx】 统计完毕
+[2023-02-01T09:01:48.065] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020老蒋8天搞定英二真题词汇.xlsx】 统计完毕
+[2023-02-01T09:01:48.276] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020老蒋讲词汇考研英语（二）.xlsx】 统计完毕
+[2023-02-01T09:01:48.304] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020考研一高分写作考前预测20篇.xlsx】 统计完毕
+[2023-02-01T09:01:48.327] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020考研二高分写作考前预测20篇.xlsx】 统计完毕
+[2023-02-01T09:01:48.573] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020考研英语词汇红宝书.xlsx】 统计完毕
+[2023-02-01T09:01:48.665] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020陈正康考研分频第5版上册.xlsx】 统计完毕
+[2023-02-01T09:01:48.770] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020陈正康考研分频第5版下册.xlsx】 统计完毕
+[2023-02-01T09:01:48.816] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020非常词汇专攻难点.xlsx】 统计完毕
+[2023-02-01T09:01:48.910] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020非常词汇基础薄弱专用.xlsx】 统计完毕
+[2023-02-01T09:01:49.128] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020非常词汇锁定重点.xlsx】 统计完毕
+[2023-02-01T09:01:49.186] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020马天艺考研英语单词之间.xlsx】 统计完毕
+[2023-02-01T09:01:49.420] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020黄皮书考研一大纲词汇背诵宝典.xlsx】 统计完毕
+[2023-02-01T09:01:49.623] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2020黄皮书考研二大纲词汇背诵宝典.xlsx】 统计完毕
+[2023-02-01T09:01:49.787] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2021何凯文考研英语必考词汇.xlsx】 统计完毕
+[2023-02-01T09:01:49.916] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2021刘一男一张图搞定考研词汇5500.xlsx】 统计完毕
+[2023-02-01T09:01:50.169] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2021刘晓艳 你还在背“单”词吗？.xlsx】 统计完毕
+[2023-02-01T09:01:50.305] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2021单词的秘密 英语（一）.xlsx】 统计完毕
+[2023-02-01T09:01:50.396] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2021单词的秘密 英语（二）.xlsx】 统计完毕
+[2023-02-01T09:01:50.646] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2021墨墨考研深度记忆宝典 全部单词.xlsx】 统计完毕
+[2023-02-01T09:01:50.721] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2021墨墨考研深度记忆宝典 核心词.xlsx】 统计完毕
+[2023-02-01T09:01:50.970] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2021恋练有词考研英语词汇.xlsx】 统计完毕
+[2023-02-01T09:01:51.005] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2021恋练有词考研英语词组.xlsx】 统计完毕
+[2023-02-01T09:01:51.161] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2021恋词考研7000词 主词.xlsx】 统计完毕
+[2023-02-01T09:01:51.390] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2021恋词考研7000词 含派生词.xlsx】 统计完毕
+[2023-02-01T09:01:51.598] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2021恋词考研英语真题5500词.xlsx】 统计完毕
+[2023-02-01T09:01:51.666] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2021研词考研词汇大全解.xlsx】 统计完毕
+[2023-02-01T09:01:51.730] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2021考研真相基础研读版.xlsx】 统计完毕
+[2023-02-01T09:01:51.998] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2021考研英语词汇红宝书.xlsx】 统计完毕
+[2023-02-01T09:01:52.011] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2021考研英语高分写作.xlsx】 统计完毕
+[2023-02-01T09:01:52.060] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2021考研英语（二）写作宝中宝.xlsx】 统计完毕
+[2023-02-01T09:01:52.282] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2021考研英语（二）老蒋讲词汇.xlsx】 统计完毕
+[2023-02-01T09:01:52.503] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2021考研词汇闪过.xlsx】 统计完毕
+[2023-02-01T09:01:52.586] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2021考研词汇闪过明确难点.xlsx】 统计完毕
+[2023-02-01T09:01:52.708] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2021陈正康考研基础词+生僻词.xlsx】 统计完毕
+[2023-02-01T09:01:52.801] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2021陈正康考研英语带你记母词.xlsx】 统计完毕
+[2023-02-01T09:01:52.892] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2021马天艺考研英语单词之间.xlsx】 统计完毕
+[2023-02-01T09:01:53.104] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2021黄皮书考研一大纲词汇背诵宝典.xlsx】 统计完毕
+[2023-02-01T09:01:53.336] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2021黄皮书考研二大纲词汇背诵宝典.xlsx】 统计完毕
+[2023-02-01T09:01:53.511] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2022何凯文考研英语必考词汇.xlsx】 统计完毕
+[2023-02-01T09:01:53.758] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2022刘晓艳 你还在背“单”词吗？.xlsx】 统计完毕
+[2023-02-01T09:01:53.986] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2022墨墨考研深度记忆宝典 全部单词.xlsx】 统计完毕
+[2023-02-01T09:01:54.059] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2022墨墨考研深度记忆宝典 核心词.xlsx】 统计完毕
+[2023-02-01T09:01:54.305] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2022恋练有词考研英语词汇 含加分宝.xlsx】 统计完毕
+[2023-02-01T09:01:54.441] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2022恋练有词考研英语词汇.xlsx】 统计完毕
+[2023-02-01T09:01:54.476] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2022恋练有词考研英语词组.xlsx】 统计完毕
+[2023-02-01T09:01:54.714] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2022恋词考研英语真题5500词.xlsx】 统计完毕
+[2023-02-01T09:01:54.877] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2022考研英语7000词 主词.xlsx】 统计完毕
+[2023-02-01T09:01:55.098] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2022考研英语7000词 含派生词.xlsx】 统计完毕
+[2023-02-01T09:01:55.302] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2022考研英语真题5500词.xlsx】 统计完毕
+[2023-02-01T09:01:55.541] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2022考研英语词汇红宝书.xlsx】 统计完毕
+[2023-02-01T09:01:55.553] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2022考研英语高分写作.xlsx】 统计完毕
+[2023-02-01T09:01:55.596] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2022考研英语高分写作小伴侣.xlsx】 统计完毕
+[2023-02-01T09:01:55.747] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2022考研英语（二）老蒋讲真题词汇.xlsx】 统计完毕
+[2023-02-01T09:01:55.998] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2022考研英语（二）老蒋讲词汇.xlsx】 统计完毕
+[2023-02-01T09:01:56.233] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2022考研词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:01:56.437] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2022考研词汇闪过.xlsx】 统计完毕
+[2023-02-01T09:01:56.549] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2022马天艺考研英语单词之间.xlsx】 统计完毕
+[2023-02-01T09:01:56.766] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2022黄皮书考研一大纲词汇背诵宝典.xlsx】 统计完毕
+[2023-02-01T09:01:56.987] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2022黄皮书考研二大纲词汇背诵宝典.xlsx】 统计完毕
+[2023-02-01T09:01:57.245] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2023你还在“背”单词吗？.xlsx】 统计完毕
+[2023-02-01T09:01:57.521] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2023墨墨考研深度记忆宝典 全部单词.xlsx】 统计完毕
+[2023-02-01T09:01:57.618] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2023墨墨考研深度记忆宝典 核心词.xlsx】 统计完毕
+[2023-02-01T09:01:58.021] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2023恋练有词考研英语词汇.xlsx】 统计完毕
+[2023-02-01T09:01:58.496] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2023考研英语真题5500词.xlsx】 统计完毕
+[2023-02-01T09:01:58.700] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2023考研英语词汇红宝书.xlsx】 统计完毕
+[2023-02-01T09:01:58.814] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2023考研英语（二）老蒋讲真题必考词.xlsx】 统计完毕
+[2023-02-01T09:01:59.320] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2023考研词汇闪过.xlsx】 统计完毕
+[2023-02-01T09:01:59.601] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2023陈正康考研英语基础词+生僻词.xlsx】 统计完毕
+[2023-02-01T09:01:59.955] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2023陈正康考研英语带你记母词.xlsx】 统计完毕
+[2023-02-01T09:02:00.114] [INFO] info - 【F:\Projects\createdict\dict\5.考研\2023马天艺考研英语单词之间.xlsx】 统计完毕
+[2023-02-01T09:02:00.158] [INFO] info - 【F:\Projects\createdict\dict\5.考研\20天突破考研英语核心短语.xlsx】 统计完毕
+[2023-02-01T09:02:00.201] [INFO] info - 【F:\Projects\createdict\dict\5.考研\20天背完考研英语二核心词汇.xlsx】 统计完毕
+[2023-02-01T09:02:00.229] [INFO] info - 【F:\Projects\createdict\dict\5.考研\22个故事搞定考研核心词汇.xlsx】 统计完毕
+[2023-02-01T09:02:00.503] [INFO] info - 【F:\Projects\createdict\dict\5.考研\于慧考研真题100篇词汇分册.xlsx】 统计完毕
+[2023-02-01T09:02:00.579] [INFO] info - 【F:\Projects\createdict\dict\5.考研\十天搞定考研词汇乱序版（第1版）.xlsx】 统计完毕
+[2023-02-01T09:02:00.721] [INFO] info - 【F:\Projects\createdict\dict\5.考研\十天搞定考研词汇乱序版（第2版附派生）.xlsx】 统计完毕
+[2023-02-01T09:02:00.827] [INFO] info - 【F:\Projects\createdict\dict\5.考研\十天搞定考研词汇乱序版（第2版）.xlsx】 统计完毕
+[2023-02-01T09:02:00.981] [INFO] info - 【F:\Projects\createdict\dict\5.考研\十天搞定考研词汇乱序版（第3版） 含派生词.xlsx】 统计完毕
+[2023-02-01T09:02:01.092] [INFO] info - 【F:\Projects\createdict\dict\5.考研\十天搞定考研词汇乱序版（第3版）.xlsx】 统计完毕
+[2023-02-01T09:02:01.189] [INFO] info - 【F:\Projects\createdict\dict\5.考研\十天搞定考研词汇便携版（第1版）.xlsx】 统计完毕
+[2023-02-01T09:02:01.308] [INFO] info - 【F:\Projects\createdict\dict\5.考研\十天搞定考研词汇便携版（第2版）.xlsx】 统计完毕
+[2023-02-01T09:02:01.476] [INFO] info - 【F:\Projects\createdict\dict\5.考研\十天搞定考研词汇便携版（第3版） 含派生词.xlsx】 统计完毕
+[2023-02-01T09:02:01.611] [INFO] info - 【F:\Projects\createdict\dict\5.考研\十天搞定考研词汇便携版（第3版）.xlsx】 统计完毕
+[2023-02-01T09:02:01.733] [INFO] info - 【F:\Projects\createdict\dict\5.考研\思思大王考研一笑而过（第1版）.xlsx】 统计完毕
+[2023-02-01T09:02:01.885] [INFO] info - 【F:\Projects\createdict\dict\5.考研\思思大王考研一笑而过（第2版）.xlsx】 统计完毕
+[2023-02-01T09:02:02.040] [INFO] info - 【F:\Projects\createdict\dict\5.考研\思思大王考研单词一笑而过（第2版）.xlsx】 统计完毕
+[2023-02-01T09:02:02.056] [INFO] info - 【F:\Projects\createdict\dict\5.考研\恋练有词熟词僻义速记大全 英语一.xlsx】 统计完毕
+[2023-02-01T09:02:02.069] [INFO] info - 【F:\Projects\createdict\dict\5.考研\恋练有词熟词僻义速记大全 英语二.xlsx】 统计完毕
+[2023-02-01T09:02:02.357] [INFO] info - 【F:\Projects\createdict\dict\5.考研\星火考研三三必刷词.xlsx】 统计完毕
+[2023-02-01T09:02:02.560] [INFO] info - 【F:\Projects\createdict\dict\5.考研\星火考研巧记速记.xlsx】 统计完毕
+[2023-02-01T09:02:02.744] [INFO] info - 【F:\Projects\createdict\dict\5.考研\星火考研英语大纲词汇表.xlsx】 统计完毕
+[2023-02-01T09:02:02.831] [INFO] info - 【F:\Projects\createdict\dict\5.考研\星火考研词汇核心突破.xlsx】 统计完毕
+[2023-02-01T09:02:02.906] [INFO] info - 【F:\Projects\createdict\dict\5.考研\星火考研（二）高频1283词.xlsx】 统计完毕
+[2023-02-01T09:02:03.176] [INFO] info - 【F:\Projects\createdict\dict\5.考研\海文考研分级词汇记忆宝典.xlsx】 统计完毕
+[2023-02-01T09:02:03.194] [INFO] info - 【F:\Projects\createdict\dict\5.考研\热词红宝书 第1版.xlsx】 统计完毕
+[2023-02-01T09:02:03.209] [INFO] info - 【F:\Projects\createdict\dict\5.考研\热词红宝书 第2版.xlsx】 统计完毕
+[2023-02-01T09:02:03.221] [INFO] info - 【F:\Projects\createdict\dict\5.考研\热词红宝书 第3版.xlsx】 统计完毕
+[2023-02-01T09:02:03.332] [INFO] info - 【F:\Projects\createdict\dict\5.考研\百练千词考研词汇分级应用大全.xlsx】 统计完毕
+[2023-02-01T09:02:03.601] [INFO] info - 【F:\Projects\createdict\dict\5.考研\考研英语(二)词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:02:03.785] [INFO] info - 【F:\Projects\createdict\dict\5.考研\考研英语串串词.xlsx】 统计完毕
+[2023-02-01T09:02:04.001] [INFO] info - 【F:\Projects\createdict\dict\5.考研\考研英语大纲词汇5500.xlsx】 统计完毕
+[2023-02-01T09:02:04.111] [INFO] info - 【F:\Projects\createdict\dict\5.考研\考研英语大趋势 词汇抢分速记.xlsx】 统计完毕
+[2023-02-01T09:02:04.337] [INFO] info - 【F:\Projects\createdict\dict\5.考研\考研英语屠屠讲单词.xlsx】 统计完毕
+[2023-02-01T09:02:04.523] [INFO] info - 【F:\Projects\createdict\dict\5.考研\考研英语记词有树5500.xlsx】 统计完毕
+[2023-02-01T09:02:04.713] [INFO] info - 【F:\Projects\createdict\dict\5.考研\考研英语词汇的逻辑.xlsx】 统计完毕
+[2023-02-01T09:02:04.848] [INFO] info - 【F:\Projects\createdict\dict\5.考研\考研英语词汇词以类记.xlsx】 统计完毕
+[2023-02-01T09:02:04.955] [INFO] info - 【F:\Projects\createdict\dict\5.考研\考研英语词汇速记大全.xlsx】 统计完毕
+[2023-02-01T09:02:05.122] [INFO] info - 【F:\Projects\createdict\dict\5.考研\考研词汇乱序便携版.xlsx】 统计完毕
+[2023-02-01T09:02:05.243] [INFO] info - 【F:\Projects\createdict\dict\5.考研\考研词汇乱序版上册.xlsx】 统计完毕
+[2023-02-01T09:02:05.321] [INFO] info - 【F:\Projects\createdict\dict\5.考研\考研词汇乱序版下册.xlsx】 统计完毕
+[2023-02-01T09:02:05.568] [INFO] info - 【F:\Projects\createdict\dict\5.考研\考研词汇便携版.xlsx】 统计完毕
+[2023-02-01T09:02:05.689] [INFO] info - 【F:\Projects\createdict\dict\5.考研\考研词汇升级版上册.xlsx】 统计完毕
+[2023-02-01T09:02:05.786] [INFO] info - 【F:\Projects\createdict\dict\5.考研\考研词汇升级版下册.xlsx】 统计完毕
+[2023-02-01T09:02:05.909] [INFO] info - 【F:\Projects\createdict\dict\5.考研\考研词汇正序版上册.xlsx】 统计完毕
+[2023-02-01T09:02:05.950] [INFO] info - 【F:\Projects\createdict\dict\5.考研\考研词汇正序版下册.xlsx】 统计完毕
+[2023-02-01T09:02:06.006] [INFO] info - 【F:\Projects\createdict\dict\5.考研\考研词汇魔法书.xlsx】 统计完毕
+[2023-02-01T09:02:06.333] [INFO] info - 【F:\Projects\createdict\dict\5.考研\郭崇兴考研精读版.xlsx】 统计完毕
+[2023-02-01T09:02:06.381] [INFO] info - 【F:\Projects\createdict\dict\5.考研\阅读真题精讲 · 28分达考研（一）.xlsx】 统计完毕
+[2023-02-01T09:02:06.606] [INFO] info - 【F:\Projects\createdict\dict\6.研究生\2018硕士研究生英语（一）大纲词汇.xlsx】 统计完毕
+[2023-02-01T09:02:06.812] [INFO] info - 【F:\Projects\createdict\dict\6.研究生\2018硕士研究生英语（二）大纲词汇.xlsx】 统计完毕
+[2023-02-01T09:02:07.020] [INFO] info - 【F:\Projects\createdict\dict\6.研究生\2019硕士研究生英语（一）大纲词汇.xlsx】 统计完毕
+[2023-02-01T09:02:07.231] [INFO] info - 【F:\Projects\createdict\dict\6.研究生\2019硕士研究生英语（二）大纲词汇.xlsx】 统计完毕
+[2023-02-01T09:02:07.471] [INFO] info - 【F:\Projects\createdict\dict\6.研究生\2020硕士研究生英语（一）大纲词汇.xlsx】 统计完毕
+[2023-02-01T09:02:07.690] [INFO] info - 【F:\Projects\createdict\dict\6.研究生\2020硕士研究生英语（二）大纲词汇.xlsx】 统计完毕
+[2023-02-01T09:02:07.906] [INFO] info - 【F:\Projects\createdict\dict\6.研究生\2021硕士研究生英语（一）大纲词汇.xlsx】 统计完毕
+[2023-02-01T09:02:08.122] [INFO] info - 【F:\Projects\createdict\dict\6.研究生\2021硕士研究生英语（二）大纲词汇.xlsx】 统计完毕
+[2023-02-01T09:02:08.429] [INFO] info - 【F:\Projects\createdict\dict\6.研究生\中科院研究生硕士博士词汇速记.xlsx】 统计完毕
+[2023-02-01T09:02:08.782] [INFO] info - 【F:\Projects\createdict\dict\6.考博\2019考博词汇周计划.xlsx】 统计完毕
+[2023-02-01T09:02:09.040] [INFO] info - 【F:\Projects\createdict\dict\6.考博\2020考博10000词汇速记手册口袋书.xlsx】 统计完毕
+[2023-02-01T09:02:09.350] [INFO] info - 【F:\Projects\createdict\dict\6.考博\2020考博词汇周计划.xlsx】 统计完毕
+[2023-02-01T09:02:09.625] [INFO] info - 【F:\Projects\createdict\dict\6.考博\考博词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:02:09.874] [INFO] info - 【F:\Projects\createdict\dict\6.考博\考博词汇便携版.xlsx】 统计完毕
+[2023-02-01T09:02:10.157] [INFO] info - 【F:\Projects\createdict\dict\6.考博\考博词汇正序版.xlsx】 统计完毕
+[2023-02-01T09:02:10.469] [INFO] info - 【F:\Projects\createdict\dict\7.托福\100个句子记完7000个托福单词.xlsx】 统计完毕
+[2023-02-01T09:02:10.518] [INFO] info - 【F:\Projects\createdict\dict\7.托福\570个单词轻松征服托福.xlsx】 统计完毕
+[2023-02-01T09:02:10.660] [INFO] info - 【F:\Projects\createdict\dict\7.托福\7天搞定托福高频核心词.xlsx】 统计完毕
+[2023-02-01T09:02:10.944] [INFO] info - 【F:\Projects\createdict\dict\7.托福\BMC-托福必备词汇.xlsx】 统计完毕
+[2023-02-01T09:02:11.087] [INFO] info - 【F:\Projects\createdict\dict\7.托福\TOEFL45天突破版.xlsx】 统计完毕
+[2023-02-01T09:02:11.251] [INFO] info - 【F:\Projects\createdict\dict\7.托福\TOEFLiBT  词以类记.xlsx】 统计完毕
+[2023-02-01T09:02:11.436] [INFO] info - 【F:\Projects\createdict\dict\7.托福\TOEFLiBT  词以类记2.0.xlsx】 统计完毕
+[2023-02-01T09:02:11.654] [INFO] info - 【F:\Projects\createdict\dict\7.托福\TOEFL核心词汇21天突破.xlsx】 统计完毕
+[2023-02-01T09:02:11.860] [INFO] info - 【F:\Projects\createdict\dict\7.托福\TOEFL词汇.xlsx】 统计完毕
+[2023-02-01T09:02:12.017] [INFO] info - 【F:\Projects\createdict\dict\7.托福\TOEFL词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:02:12.135] [INFO] info - 【F:\Projects\createdict\dict\7.托福\TOEFL词汇正序版.xlsx】 统计完毕
+[2023-02-01T09:02:12.267] [INFO] info - 【F:\Projects\createdict\dict\7.托福\托福考试官方指南词汇必备.xlsx】 统计完毕
+[2023-02-01T09:02:12.475] [INFO] info - 【F:\Projects\createdict\dict\7.托福\托福词汇一本通.xlsx】 统计完毕
+[2023-02-01T09:02:12.585] [INFO] info - 【F:\Projects\createdict\dict\7.托福\托福词汇速记大全.xlsx】 统计完毕
+[2023-02-01T09:02:12.612] [INFO] info - 【F:\Projects\createdict\dict\7.托福\托福词组必备.xlsx】 统计完毕
+[2023-02-01T09:02:12.717] [INFO] info - 【F:\Projects\createdict\dict\7.托福\托福高频词汇精讲.xlsx】 统计完毕
+[2023-02-01T09:02:12.810] [INFO] info - 【F:\Projects\createdict\dict\7.托福\新托福iBT词汇分类突破.xlsx】 统计完毕
+[2023-02-01T09:02:12.914] [INFO] info - 【F:\Projects\createdict\dict\7.托福\新托福听力词汇小伴侣.xlsx】 统计完毕
+[2023-02-01T09:02:12.931] [INFO] info - 【F:\Projects\createdict\dict\7.托福\新托福官方指定核心词汇超详解.xlsx】 统计完毕
+[2023-02-01T09:02:13.417] [INFO] info - 【F:\Projects\createdict\dict\7.托福\猴哥托福词频蓝宝书.xlsx】 统计完毕
+[2023-02-01T09:02:13.476] [INFO] info - 【F:\Projects\createdict\dict\7.托福\鸭圈托福核心词.xlsx】 统计完毕
+[2023-02-01T09:02:13.620] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\2013雅思词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:02:13.644] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\2015雅思词组必备.xlsx】 统计完毕
+[2023-02-01T09:02:13.957] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\2016雅思词汇胜经.xlsx】 统计完毕
+[2023-02-01T09:02:14.099] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\2017雅思词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:02:14.232] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\7天搞定雅思高频核心词.xlsx】 统计完毕
+[2023-02-01T09:02:14.374] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\IELTS词汇词以类记.xlsx】 统计完毕
+[2023-02-01T09:02:14.543] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\剑桥雅思词汇精典.xlsx】 统计完毕
+[2023-02-01T09:02:14.718] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\单词密码雅思词汇记忆法.xlsx】 统计完毕
+[2023-02-01T09:02:14.791] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\王冬梅雅思词汇过目不忘.xlsx】 统计完毕
+[2023-02-01T09:02:14.837] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\王陆807雅思词汇写作第2版.xlsx】 统计完毕
+[2023-02-01T09:02:14.948] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\王陆807雅思词汇口语第2版.xlsx】 统计完毕
+[2023-02-01T09:02:15.020] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\王陆807雅思词汇听力第2版.xlsx】 统计完毕
+[2023-02-01T09:02:15.052] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\王陆807雅思词汇阅读第2版.xlsx】 统计完毕
+[2023-02-01T09:02:15.226] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\雅思分级词汇21天进阶.xlsx】 统计完毕
+[2023-02-01T09:02:15.357] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\雅思标准词汇3800.xlsx】 统计完毕
+[2023-02-01T09:02:15.484] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\雅思标准词汇3800（第二版）.xlsx】 统计完毕
+[2023-02-01T09:02:15.566] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\雅思真词汇（第3版）.xlsx】 统计完毕
+[2023-02-01T09:02:15.651] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\雅思真词汇（第4版）.xlsx】 统计完毕
+[2023-02-01T09:02:15.742] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\雅思真词汇（第5版）.xlsx】 统计完毕
+[2023-02-01T09:02:15.898] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\雅思真词汇（第6版）.xlsx】 统计完毕
+[2023-02-01T09:02:16.034] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\雅思词汇乱序便携版.xlsx】 统计完毕
+[2023-02-01T09:02:16.184] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\雅思词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:02:16.421] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\雅思词汇加强版.xlsx】 统计完毕
+[2023-02-01T09:02:16.625] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\雅思词汇念念不忘乱序版.xlsx】 统计完毕
+[2023-02-01T09:02:16.767] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\雅思词汇真经.xlsx】 统计完毕
+[2023-02-01T09:02:17.082] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\雅思词汇胜经.xlsx】 统计完毕
+[2023-02-01T09:02:17.106] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\雅思词组必备.xlsx】 统计完毕
+[2023-02-01T09:02:17.196] [INFO] info - 【F:\Projects\createdict\dict\7.雅思\鸭圈雅思核心词.xlsx】 统计完毕
+[2023-02-01T09:02:17.290] [INFO] info - 【F:\Projects\createdict\dict\8.商务英语\BEC中级词汇精选.xlsx】 统计完毕
+[2023-02-01T09:02:17.360] [INFO] info - 【F:\Projects\createdict\dict\8.商务英语\BEC初级词汇精选.xlsx】 统计完毕
+[2023-02-01T09:02:17.484] [INFO] info - 【F:\Projects\createdict\dict\8.商务英语\BEC词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:02:17.584] [INFO] info - 【F:\Projects\createdict\dict\8.商务英语\BEC高级词汇精选.xlsx】 统计完毕
+[2023-02-01T09:02:17.613] [INFO] info - 【F:\Projects\createdict\dict\8.国际英语\2016朗文国际英语教程(Side by Side)第1册.xlsx】 统计完毕
+[2023-02-01T09:02:17.635] [INFO] info - 【F:\Projects\createdict\dict\8.国际英语\2016朗文国际英语教程(Side by Side)第2册.xlsx】 统计完毕
+[2023-02-01T09:02:17.664] [INFO] info - 【F:\Projects\createdict\dict\8.国际英语\2016朗文国际英语教程(Side by Side)第3册.xlsx】 统计完毕
+[2023-02-01T09:02:17.686] [INFO] info - 【F:\Projects\createdict\dict\8.国际英语\2016朗文国际英语教程(Side by Side)第4册.xlsx】 统计完毕
+[2023-02-01T09:02:17.717] [INFO] info - 【F:\Projects\createdict\dict\8.国际英语\剑桥国际英语教程1.xlsx】 统计完毕
+[2023-02-01T09:02:17.748] [INFO] info - 【F:\Projects\createdict\dict\8.国际英语\剑桥国际英语教程2.xlsx】 统计完毕
+[2023-02-01T09:02:17.781] [INFO] info - 【F:\Projects\createdict\dict\8.国际英语\剑桥国际英语教程3.xlsx】 统计完毕
+[2023-02-01T09:02:17.815] [INFO] info - 【F:\Projects\createdict\dict\8.国际英语\剑桥国际英语教程入门级.xlsx】 统计完毕
+[2023-02-01T09:02:17.844] [INFO] info - 【F:\Projects\createdict\dict\8.国际英语\朗文国际英语教程(Side by Side)第1册.xlsx】 统计完毕
+[2023-02-01T09:02:17.868] [INFO] info - 【F:\Projects\createdict\dict\8.国际英语\朗文国际英语教程(Side by Side)第2册.xlsx】 统计完毕
+[2023-02-01T09:02:17.896] [INFO] info - 【F:\Projects\createdict\dict\8.国际英语\朗文国际英语教程(Side by Side)第3册.xlsx】 统计完毕
+[2023-02-01T09:02:17.920] [INFO] info - 【F:\Projects\createdict\dict\8.国际英语\朗文国际英语教程(Side by Side)第4册.xlsx】 统计完毕
+[2023-02-01T09:02:17.945] [INFO] info - 【F:\Projects\createdict\dict\8.新世纪英专\2016新世纪英语专业综合教程1（第2版）.xlsx】 统计完毕
+[2023-02-01T09:02:17.973] [INFO] info - 【F:\Projects\createdict\dict\8.新世纪英专\2016新世纪英语专业综合教程2（第2版）.xlsx】 统计完毕
+[2023-02-01T09:02:17.985] [INFO] info - 【F:\Projects\createdict\dict\8.新世纪英专\2016新世纪英语专业综合教程3（第2版）.xlsx】 统计完毕
+[2023-02-01T09:02:18.002] [INFO] info - 【F:\Projects\createdict\dict\8.新世纪英专\2016新世纪英语专业综合教程4（第2版）.xlsx】 统计完毕
+[2023-02-01T09:02:18.026] [INFO] info - 【F:\Projects\createdict\dict\8.新世纪英专\2016新世纪英语专业综合教程5（第2版）.xlsx】 统计完毕
+[2023-02-01T09:02:18.044] [INFO] info - 【F:\Projects\createdict\dict\8.新世纪英专\2016新世纪英语专业综合教程6（第2版）.xlsx】 统计完毕
+[2023-02-01T09:02:18.065] [INFO] info - 【F:\Projects\createdict\dict\8.新世纪英专\新世纪英语专业综合教程1（第2版）.xlsx】 统计完毕
+[2023-02-01T09:02:18.092] [INFO] info - 【F:\Projects\createdict\dict\8.新世纪英专\新世纪英语专业综合教程2（第2版）.xlsx】 统计完毕
+[2023-02-01T09:02:18.103] [INFO] info - 【F:\Projects\createdict\dict\8.新世纪英专\新世纪英语专业综合教程3（第2版）.xlsx】 统计完毕
+[2023-02-01T09:02:18.120] [INFO] info - 【F:\Projects\createdict\dict\8.新世纪英专\新世纪英语专业综合教程4（第2版）.xlsx】 统计完毕
+[2023-02-01T09:02:18.143] [INFO] info - 【F:\Projects\createdict\dict\8.新世纪英专\新世纪英语专业综合教程5（第2版）.xlsx】 统计完毕
+[2023-02-01T09:02:18.161] [INFO] info - 【F:\Projects\createdict\dict\8.新世纪英专\新世纪英语专业综合教程6（第2版）.xlsx】 统计完毕
+[2023-02-01T09:02:18.196] [INFO] info - 【F:\Projects\createdict\dict\8.新概念英语\新概念英语第一册（新版）.xlsx】 统计完毕
+[2023-02-01T09:02:18.237] [INFO] info - 【F:\Projects\createdict\dict\8.新概念英语\新概念英语第三册（新版）.xlsx】 统计完毕
+[2023-02-01T09:02:18.273] [INFO] info - 【F:\Projects\createdict\dict\8.新概念英语\新概念英语第二册（新版）.xlsx】 统计完毕
+[2023-02-01T09:02:18.302] [INFO] info - 【F:\Projects\createdict\dict\8.新概念英语\新概念英语第四册（新版）.xlsx】 统计完毕
+[2023-02-01T09:02:18.319] [INFO] info - 【F:\Projects\createdict\dict\8.新概念英语\新概念英语青少版1A.xlsx】 统计完毕
+[2023-02-01T09:02:18.337] [INFO] info - 【F:\Projects\createdict\dict\8.新概念英语\新概念英语青少版1B.xlsx】 统计完毕
+[2023-02-01T09:02:18.350] [INFO] info - 【F:\Projects\createdict\dict\8.新概念英语\新概念英语青少版2A.xlsx】 统计完毕
+[2023-02-01T09:02:18.361] [INFO] info - 【F:\Projects\createdict\dict\8.新概念英语\新概念英语青少版2B.xlsx】 统计完毕
+[2023-02-01T09:02:18.374] [INFO] info - 【F:\Projects\createdict\dict\8.新概念英语\新概念英语青少版3A.xlsx】 统计完毕
+[2023-02-01T09:02:18.382] [INFO] info - 【F:\Projects\createdict\dict\8.新概念英语\新概念英语青少版3B.xlsx】 统计完毕
+[2023-02-01T09:02:18.411] [INFO] info - 【F:\Projects\createdict\dict\8.新概念英语\新概念英语青少版4A.xlsx】 统计完毕
+[2023-02-01T09:02:18.430] [INFO] info - 【F:\Projects\createdict\dict\8.新概念英语\新概念英语青少版4B.xlsx】 统计完毕
+[2023-02-01T09:02:18.447] [INFO] info - 【F:\Projects\createdict\dict\8.新概念英语\新概念英语青少版5A.xlsx】 统计完毕
+[2023-02-01T09:02:18.460] [INFO] info - 【F:\Projects\createdict\dict\8.新概念英语\新概念英语青少版5B.xlsx】 统计完毕
+[2023-02-01T09:02:18.465] [INFO] info - 【F:\Projects\createdict\dict\8.新概念英语\新概念英语青少版入门级A.xlsx】 统计完毕
+[2023-02-01T09:02:18.471] [INFO] info - 【F:\Projects\createdict\dict\8.新概念英语\新概念英语青少版入门级B.xlsx】 统计完毕
+[2023-02-01T09:02:18.494] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\14天攻克KET核心词汇.xlsx】 统计完毕
+[2023-02-01T09:02:18.737] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\1～6级词汇重点难点全突破.xlsx】 统计完毕
+[2023-02-01T09:02:18.842] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\2011GMAT词汇精选.xlsx】 统计完毕
+[2023-02-01T09:02:18.968] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\2011GRE核心词汇考法精析.xlsx】 统计完毕
+[2023-02-01T09:02:19.271] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\2012SAT词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:02:19.384] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\2016GRE核心词汇考法精析.xlsx】 统计完毕
+[2023-02-01T09:02:19.605] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\2016同等学力人员考试词汇.xlsx】 统计完毕
+[2023-02-01T09:02:19.609] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\2020年新型冠状病毒疫情.xlsx】 统计完毕
+[2023-02-01T09:02:19.650] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\21天攻克PET核心词汇.xlsx】 统计完毕
+[2023-02-01T09:02:19.666] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\Academic Voc List (SM2).xlsx】 统计完毕
+[2023-02-01T09:02:19.795] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\ACT必备核心词汇.xlsx】 统计完毕
+[2023-02-01T09:02:19.952] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\BMC-SAT核心单词乱序版.xlsx】 统计完毕
+[2023-02-01T09:02:20.103] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\BMC-SAT核心单词顺序版.xlsx】 统计完毕
+[2023-02-01T09:02:20.239] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\FCE核心词 巧记速练.xlsx】 统计完毕
+[2023-02-01T09:02:20.348] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\GMAT词汇  词以类记.xlsx】 统计完毕
+[2023-02-01T09:02:20.492] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\GMAT词汇精选.xlsx】 统计完毕
+[2023-02-01T09:02:20.580] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\GMAT高频核心词汇.xlsx】 统计完毕
+[2023-02-01T09:02:20.857] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\GRE巴朗词表第3版.xlsx】 统计完毕
+[2023-02-01T09:02:20.992] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\GRE核心词汇一本通.xlsx】 统计完毕
+[2023-02-01T09:02:21.110] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\GRE核心词汇考法精析.xlsx】 统计完毕
+[2023-02-01T09:02:21.222] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\GRE核心词汇考法精析便携版.xlsx】 统计完毕
+[2023-02-01T09:02:21.538] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\GRE词汇  词以类记.xlsx】 统计完毕
+[2023-02-01T09:02:21.796] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\GRE词汇精选乱序版.xlsx】 统计完毕
+[2023-02-01T09:02:22.043] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\GRE词汇精选（NEW）.xlsx】 统计完毕
+[2023-02-01T09:02:22.055] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\GRE高分必备短语搭配.xlsx】 统计完毕
+[2023-02-01T09:02:22.166] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\GRE高频真词表.xlsx】 统计完毕
+[2023-02-01T09:02:22.337] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\GRE高频真词表便携版.xlsx】 统计完毕
+[2023-02-01T09:02:22.442] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\KET核心词 巧记速练.xlsx】 统计完毕
+[2023-02-01T09:02:22.480] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\Magoosh GRE Vocabulary 1000.xlsx】 统计完毕
+[2023-02-01T09:02:22.726] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\MBA词汇正序版.xlsx】 统计完毕
+[2023-02-01T09:02:22.893] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\PASS巧记3500词.xlsx】 统计完毕
+[2023-02-01T09:02:23.029] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\PASS巧记活用3500词.xlsx】 统计完毕
+[2023-02-01T09:02:23.065] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\PETS全国等级考试教材第三级.xlsx】 统计完毕
+[2023-02-01T09:02:23.246] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\PET核心词 巧记速练.xlsx】 统计完毕
+[2023-02-01T09:02:23.374] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\SAT巴朗词表乱序版.xlsx】 统计完毕
+[2023-02-01T09:02:23.663] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\SAT词汇乱序版.xlsx】 统计完毕
+[2023-02-01T09:02:23.792] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\The Oxford 3000 - American.xlsx】 统计完毕
+[2023-02-01T09:02:23.938] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\The Oxford 3000 - English.xlsx】 统计完毕
+[2023-02-01T09:02:23.979] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\TIME单挑1000.xlsx】 统计完毕
+[2023-02-01T09:02:24.035] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\TOEIC 990分核心词汇.xlsx】 统计完毕
+[2023-02-01T09:02:24.042] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\Wordly Wise 3000 Book 1.xlsx】 统计完毕
+[2023-02-01T09:02:24.053] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\Wordly Wise 3000 Book 10.xlsx】 统计完毕
+[2023-02-01T09:02:24.064] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\Wordly Wise 3000 Book 11.xlsx】 统计完毕
+[2023-02-01T09:02:24.078] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\Wordly Wise 3000 Book 12.xlsx】 统计完毕
+[2023-02-01T09:02:24.084] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\Wordly Wise 3000 Book 2.xlsx】 统计完毕
+[2023-02-01T09:02:24.091] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\Wordly Wise 3000 Book 3.xlsx】 统计完毕
+[2023-02-01T09:02:24.105] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\Wordly Wise 3000 Book 4.xlsx】 统计完毕
+[2023-02-01T09:02:24.116] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\Wordly Wise 3000 Book 5.xlsx】 统计完毕
+[2023-02-01T09:02:24.128] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\Wordly Wise 3000 Book 6.xlsx】 统计完毕
+[2023-02-01T09:02:24.141] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\Wordly Wise 3000 Book 7.xlsx】 统计完毕
+[2023-02-01T09:02:24.154] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\Wordly Wise 3000 Book 8.xlsx】 统计完毕
+[2023-02-01T09:02:24.166] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\Wordly Wise 3000 Book 9.xlsx】 统计完毕
+[2023-02-01T09:02:24.173] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\Wordly Wise 3000 Book K.xlsx】 统计完毕
+[2023-02-01T09:02:24.322] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\专升本英语词汇40天一本通.xlsx】 统计完毕
+[2023-02-01T09:02:24.358] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\全国等级考试词汇必备第一级.xlsx】 统计完毕
+[2023-02-01T09:02:24.513] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\全国等级考试词汇必备第三级.xlsx】 统计完毕
+[2023-02-01T09:02:24.611] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\全国等级考试词汇必备第二级.xlsx】 统计完毕
+[2023-02-01T09:02:24.906] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\全国等级考试词汇必备第五级.xlsx】 统计完毕
+[2023-02-01T09:02:25.151] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\全国等级考试词汇必备第四级.xlsx】 统计完毕
+[2023-02-01T09:02:25.475] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\医学英语词汇.xlsx】 统计完毕
+[2023-02-01T09:02:25.614] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\单词密码：英语单词应该这样背.xlsx】 统计完毕
+[2023-02-01T09:02:25.708] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\形象记忆SAT核心词汇.xlsx】 统计完毕
+[2023-02-01T09:02:25.898] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\成人本科学士学位英语水平考试大纲.xlsx】 统计完毕
+[2023-02-01T09:02:26.027] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\成人本科词汇正序版.xlsx】 统计完毕
+[2023-02-01T09:02:26.145] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\托业词汇正序版.xlsx】 统计完毕
+[2023-02-01T09:02:26.213] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\抄你老师的英语单词笔记.xlsx】 统计完毕
+[2023-02-01T09:02:26.471] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\新英语多功能词典.xlsx】 统计完毕
+[2023-02-01T09:02:26.611] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\星火AB级词汇必背.xlsx】 统计完毕
+[2023-02-01T09:02:26.730] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\朗文3000常用交流词汇.xlsx】 统计完毕
+[2023-02-01T09:02:26.800] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\果然如词思维导图.xlsx】 统计完毕
+[2023-02-01T09:02:26.952] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\核心3000词 SAT ACT 词汇一本通.xlsx】 统计完毕
+[2023-02-01T09:02:26.999] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\突破英文基础词汇.xlsx】 统计完毕
+[2023-02-01T09:02:27.048] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\突破英文词汇10000.xlsx】 统计完毕
+[2023-02-01T09:02:27.087] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\突破英文词汇22000.xlsx】 统计完毕
+[2023-02-01T09:02:27.128] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\突破英文词汇5000.xlsx】 统计完毕
+[2023-02-01T09:02:27.251] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\终极单词(1) - 变身口语达人3000词.xlsx】 统计完毕
+[2023-02-01T09:02:27.373] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\终极单词(2) - 成为英语学霸3000词.xlsx】 统计完毕
+[2023-02-01T09:02:27.491] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\终极单词(3) - 畅读英文报刊3000词.xlsx】 统计完毕
+[2023-02-01T09:02:27.608] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\终极单词(4) - 英语母语水平3000词.xlsx】 统计完毕
+[2023-02-01T09:02:27.802] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\美国当代语料库 10000.xlsx】 统计完毕
+[2023-02-01T09:02:28.025] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\美国当代语料库 15000.xlsx】 统计完毕
+[2023-02-01T09:02:28.240] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\美国当代语料库 20200.xlsx】 统计完毕
+[2023-02-01T09:02:28.354] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\美国当代语料库 5000.xlsx】 统计完毕
+[2023-02-01T09:02:28.599] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\职称英语考试词汇袋着走.xlsx】 统计完毕
+[2023-02-01T09:02:28.628] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\背单词，记住这200个词根词缀就够了.xlsx】 统计完毕
+[2023-02-01T09:02:28.887] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\英语词汇速记大全1：词根词缀记忆法.xlsx】 统计完毕
+[2023-02-01T09:02:29.014] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\英语词汇速记大全4：语境记忆法.xlsx】 统计完毕
+[2023-02-01T09:02:29.058] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\英语词组全书（上）.xlsx】 统计完毕
+[2023-02-01T09:02:29.121] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\词汇进阶 12000.xlsx】 统计完毕
+[2023-02-01T09:02:29.156] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\词汇进阶 23000.xlsx】 统计完毕
+[2023-02-01T09:02:29.202] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\词汇进阶 6000.xlsx】 统计完毕
+[2023-02-01T09:02:29.254] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\词汇进阶 BASIC.xlsx】 统计完毕
+[2023-02-01T09:02:29.312] [INFO] info - 【F:\Projects\createdict\dict\9.其他（更多）\鸭圈GRE真题词.xlsx】 统计完毕
+[2023-02-01T09:02:29.360] [INFO] info - 【F:\Projects\createdict\dict\test\突破英文基础词汇.xlsx】 统计完毕
+[2023-02-01T09:02:29.401] [INFO] info - 【F:\Projects\createdict\dict\test\突破英文词汇10000.xlsx】 统计完毕
+[2023-02-01T09:02:29.437] [INFO] info - 【F:\Projects\createdict\dict\test\突破英文词汇22000.xlsx】 统计完毕
+[2023-02-01T09:02:29.491] [INFO] info - 【F:\Projects\createdict\dict\test\突破英文词汇5000.xlsx】 统计完毕
+[2023-02-01T09:02:29.632] [INFO] info - 【F:\Projects\createdict\dict\test\终极单词(1) - 变身口语达人3000词.xlsx】 统计完毕
+[2023-02-01T09:02:29.744] [INFO] info - 【F:\Projects\createdict\dict\test\终极单词(2) - 成为英语学霸3000词.xlsx】 统计完毕
+[2023-02-01T09:02:29.883] [INFO] info - 【F:\Projects\createdict\dict\test\终极单词(3) - 畅读英文报刊3000词.xlsx】 统计完毕
+[2023-02-01T09:02:30.002] [INFO] info - 【F:\Projects\createdict\dict\test\终极单词(4) - 英语母语水平3000词.xlsx】 统计完毕
+[2023-02-01T09:02:30.002] [INFO] info - 完成了！！！

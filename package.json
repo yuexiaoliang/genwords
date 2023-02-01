@@ -1,0 +1,20 @@
+{
+  "name": "genwords",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.mjs",
+    "build": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.1.0",
+    "log4js": "^6.7.1",
+    "node-xlsx": "^0.21.0",
+    "nodemon": "^2.0.20",
+    "rimraf": "^4.1.2"
+  }
+}
