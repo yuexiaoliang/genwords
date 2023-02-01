@@ -23,7 +23,7 @@ function createData(line) {
   word = handleWord(word);
   if (!word) return;
 
-  paraphrase = handleParaphrase(paraphrase);
+  paraphrase = handleParaphrase(word, paraphrase);
   if (!paraphrase) return;
 
   handleDB(word, [1, DJ, KK, paraphrase]);
@@ -67,7 +67,7 @@ function handleWord(word) {
 }
 
 // 处理释义
-function handleParaphrase(para) {
+function handleParaphrase(word, para) {
   // 没有释义则退出
   if (typeof para !== 'string') return;
 
@@ -84,6 +84,11 @@ function handleParaphrase(para) {
 
   // 没有释义则退出
   if (!para.length) return;
+
+  // 如果数据库总已经有这个单词，则合并释义
+  if (db[word]) {
+    para = Array.from(new Set(para.concat(db[word][3])));
+  }
 
   return para;
 }
